@@ -1,7 +1,7 @@
 <div style="background-color:LightBlue; border:1px solid Teal; border-radius:5px; box-shadow: 0 8px 6px -6px #666666; color:black; padding:.25em; font-size:1.5em; text-shadow: 0px 1px 1px white; text-align:center; margin-top:1em;">  Step 1: Download the Game </div>
 
 
-<big>If you are new to JellyRO you will need the '''Full Installer''' available on our <u>
+<big>If you are new to JellyRO you will need the "Full Installer''' available on our <u>
 [http://forum.jellyro.com/files](http://forum.jellyro.com/files)</u></big>
 
 ![Start-Up Guide Novicewhaa.png](http://wiki.jellyro.com/images/Start-Up_Guide_Novicewhaa.png)

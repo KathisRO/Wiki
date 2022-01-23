@@ -8,7 +8,7 @@
 
 <big>Choose ONE of the following options:</big> 
 
-* '''I have a fast and stable connection:'''<br />
+* I have a fast and stable connection:'''<br />
 : Download the Full Installer as <span style="color: teal;">one whole file</span>.
 
 * '''I'm unable to download the file as a whole:'''<br />

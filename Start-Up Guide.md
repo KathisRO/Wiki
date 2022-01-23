@@ -11,7 +11,7 @@
 * "I have a fast and stable connection:'''
 : Download the Full Installer as <span style="color: teal;">one whole file</span>.
 
-* '''I'm unable to download the file as a whole:'''<br />
+* '''I'm unable to download the file as a whole:'''
 :  If, for one reason or another, our direct downloads are not working for you, the Full Installer is also available as a <span style="color: teal;">Torrent file</span>. Torrent downloads can be stopped and resumed whenever you like; however you will need a program such as [http://www.bittorrent.com/ Bitorrent] to begin the download.
 
 {| class="wikitable" style="margin:auto; width:600px;"

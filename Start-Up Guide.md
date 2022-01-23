@@ -5,7 +5,8 @@
 [http://forum.jellyro.com/files](http://forum.jellyro.com/files)</u></big>
 
 ![Start-Up Guide Novicewhaa.png](http://wiki.jellyro.com/images/Start-Up_Guide_Novicewhaa.png)
-<big>'''Choose ONE of the following options:'''</big> 
+
+<big>'Choose ONE of the following options:'''</big> 
 
 * '''I have a fast and stable connection:'''<br />
 : Download the Full Installer as <span style="color: teal;">one whole file</span>.

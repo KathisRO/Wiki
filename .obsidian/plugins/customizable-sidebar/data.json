@@ -1,0 +1,20 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-git:push2",
+      "name": "Obsidian Git: Push",
+      "icon": "enter"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "name": "Obsidian Git: Pull",
+      "icon": "left-arrow-with-tail"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "name": "Obsidian Git: Commit all changes",
+      "icon": "sheets-in-box"
+    }
+  ],
+  "hiddenCommands": []
+}

@@ -1,1 +1,1 @@
-This is a test
+This page is for classes

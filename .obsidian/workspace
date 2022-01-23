@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Start-Up Guide.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start-Up Guide.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c70caebd7be3b667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,8 +99,8 @@
   },
   "active": "75e5da34b5c98063",
   "lastOpenFiles": [
-    "Start-Up Guide.md",
     "index.md",
+    "Start-Up Guide.md",
     "Commands.md"
   ]
 }

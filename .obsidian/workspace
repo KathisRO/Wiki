@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "f19348c921f11c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e5da34b5c98063",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commands.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b302bf04922d3b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b3ed9992e29273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e342de9716410a68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac85fddf3cd1b1dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248
+  },
+  "right": {
+    "id": "ea1acccb1fcb27c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68117fee9ceda49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2769faea3e37418",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75e5da34b5c98063",
+  "lastOpenFiles": [
+    "Commands.md"
+  ]
+}

@@ -1,6 +1,10 @@
 This will be the index of the page 
 this should be changed
 
+[[Internal link test]]
+
+[external link test](http://www.google.com)
+
 - Item 1
 - Item 2
   - Item 2a

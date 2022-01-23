@@ -1,13 +1,10 @@
-{| 
-|- 
-| style="width: 800px;" |
-
 <div style="background-color:LightBlue; border:1px solid Teal; border-radius:5px; box-shadow: 0 8px 6px -6px #666666; color:black; padding:.25em; font-size:1.5em; text-shadow: 0px 1px 1px white; text-align:center; margin-top:1em;">  Step 1: Download the Game </div>
 
 
-<big>If you are new to Anesis, you will need the '''Full Installer''' available on our <u>'''[http://forum.jellyro.com/files/ Downloads Page]'''</u>.</big>
+<big>If you are new to JellyRO you will need the '''Full Installer''' available on our <u>
+[http://forum.jellyro.com/files](http://forum.jellyro.com/files)</u></big>
 
-[[Image:Start-Up Guide Novicewhaa.png|right|link=]]
+![Start-Up Guide Novicewhaa.png](http://wiki.jellyro.com/images/Start-Up_Guide_Novicewhaa.png)
 <big>'''Choose ONE of the following options:'''</big> 
 
 * '''I have a fast and stable connection:'''<br />

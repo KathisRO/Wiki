@@ -2,7 +2,9 @@ This will be the index of the page
 this should be changed
 
 [[Internal link test|a difficult test]]
-[[#This is a heading 1]]
+
+[[#This is a heading 1|different name]]
+
 [external link test](http://www.google.com)
 
 - Item 1

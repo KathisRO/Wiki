@@ -3,7 +3,9 @@ this should be changed
 
 [[Internal link test|a difficult test]]
 
-[[#This is a heading 1|different name]]
+[[#This is a heading 1]]
+
+[[#This is a heading 3|this displays a different thing for heading 3]]
 
 [external link test](http://www.google.com)
 

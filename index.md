@@ -1,7 +1,7 @@
 This will be the index of the page 
 this should be changed
 
-[[Internal link test]]
+[[Internal link test|a difficult test]]
 
 [external link test](http://www.google.com)
 

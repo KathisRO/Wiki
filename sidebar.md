@@ -1,4 +1,4 @@
-![[logo.png]]
+[[index|![[logo.png]]]]
 [JellyRO](jellyro.com)
 [JellyRO Cpanel](cp.jellyro.com)
 [JellyRO Forums](forum.jellyro.com/forums)

@@ -20,13 +20,19 @@ this should be changed
    1. Item 3a
    1. Item 3b
 
-# This is a heading 1
-## This is a heading 2
-### This is a heading 3 
-#### This is a heading 4
-##### This is a heading 5
-###### This is a heading 6
+# group 1 heading 1
+## group 1 heading 2
+### group 1 heading 3 
+#### group 1 heading 4
+##### group 1 heading 5
+###### group 1 heading 6
 
+### group 2  heading 3 
+#### group 2 heading 4
+##### group 2 heading 5
+
+## group 3 heading 2
+### group 3 heading 3 
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
 
 \- Doug Engelbart, 1961

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sidebar.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "sidebar.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sidebar.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +110,8 @@
   },
   "active": "75e5da34b5c98063",
   "lastOpenFiles": [
-    "sidebar.md",
     "index.md",
+    "sidebar.md",
     "Images/logo.png",
     "Start-Up Guide.md",
     "Commands.md"

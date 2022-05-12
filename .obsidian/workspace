@@ -4,18 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75e5da34b5c98063",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "8c389baa3b86f3d3",
+        "id": "07662f9663fc195c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75e5da34b5c98063",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "index.md",
     "sidebar.md",
+    "index.md",
     "Images/logo.png",
     "Start-Up Guide.md",
     "Commands.md"

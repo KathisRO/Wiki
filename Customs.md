@@ -62,6 +62,7 @@
 		</td>
 	</tr>
 </table>
+<html>
 <div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
 		<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
 				<h1> Server Information </h1>
@@ -70,3 +71,5 @@
 		[[Detailed List of Available Commands]]<br>
 		[[War of Emperium Schedule]]<br>
 </div>
+</html>
+

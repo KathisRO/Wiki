@@ -63,7 +63,7 @@
 	</tr>
 	<tr>
 		<td colspan=3>
-		<div style="padding:5px;margin-top:15px; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
+		<div style="padding:5px;margin-top:15px; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
 			<div style="width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
 				<h1> Server Information </h1>
 			</div>

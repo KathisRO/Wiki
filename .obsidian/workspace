@@ -6,6 +6,7 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
+        "dimension": 32.774193548387096,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,6 +18,7 @@
       {
         "id": "d7bf58e758214710",
         "type": "leaf",
+        "dimension": 67.2258064516129,
         "state": {
           "type": "markdown",
           "state": {
@@ -108,7 +110,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "d7bf58e758214710",
   "lastOpenFiles": [
     "Customs.md",
     "index.md",

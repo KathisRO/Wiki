@@ -40,18 +40,18 @@
 			</div>
 		</td>
 	<td style="height:inherit;">
-			<div style="padding:5px; background-color: #efedff;outline: 1px solid  #efedff; vertical-align: top; height:100%">
+			<div style="padding:5px; background-color: #efedff;outline: 1px solid  #cecef2; vertical-align: top; height:100%">
 				<div>
-				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #b1acbf;">
-					<h1> Custom Events and Minigames </h1>
+					<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #b1acbf;">
+						<h1> Custom Events and Minigames </h1>
+					</div>
+					[[Beach Volleyball]]<br>
+					[[Bloody Branch Rooms]]<br>
+					[[Faction War]]<br>
+					[[Events]]<br>
+					[[Automated Events]]<br>
 				</div>
-				[[Beach Volleyball]]<br>
-				[[Bloody Branch Rooms]]<br>
-				[[Faction War]]<br>
-				[[Events]]<br>
-				[[Automated Events]]<br>
-			</div>
-			<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #b1acbf;">
+				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #b1acbf;">
 					<h1> Miscellaneous customs </h1>
 				</div>
 				[[IsFörsvar]]<br>

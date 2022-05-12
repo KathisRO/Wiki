@@ -7,7 +7,7 @@
 <table>
 	<tr style="height:1px;">
 		<td style="height:inherit;">
-			<div style="padding:5px;margin:auto; width:100%; background-color: ##ffffe1;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
+			<div style="padding:5px;margin:auto; width:100%; background-color: #ffffe1;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Database </h1>
 				</div>

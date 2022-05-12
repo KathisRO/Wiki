@@ -6,7 +6,7 @@
 <br><br>
 <table>
 	<tr style="height:1px;">
-		<td style="vertical-align:top; height:inherit;">
+		<td style="height:inherit;">
 			<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Database </h1>
@@ -21,7 +21,7 @@
 				[[List of Pets]]<br>
 			</div>
 		</td>
-		<td style="vertical-align:top; height:inherit;">
+		<td style="height:inherit;">
 			<div style="margin:auto; width:100%; background-color: #f5faff;outline: 1px solid #cedff2; height:100%; vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #cedff2;outline: 1px solid #a3b0bf;">
 					<h1> Custom Database </h1>
@@ -39,7 +39,7 @@
 				[[Rank Point Checker]]<br>
 			</div>
 		</td>
-	<td style="vertical-align:top; height:inherit;">
+	<td style="height:inherit;">
 			<div style="margin:auto; width:100%; background-color: #efedff;outline: 1px solid  #efedff; vertical-align: top;">
 				<div>
 				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #e5c9a1;">
@@ -61,15 +61,17 @@
 		</div>
 		</td>
 	</tr>
-</table>
-<html>
-<div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
-		<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
+	<tr>
+		<td colspan=3>
+		<div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
+			<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
 				<h1> Server Information </h1>
-		</div>
+			</div>
 		[[Server Information]]<br>
 		[[Detailed List of Available Commands]]<br>
 		[[War of Emperium Schedule]]<br>
-</div>
-</html>
+		</div>
+	</tr>
+</table>
+
 

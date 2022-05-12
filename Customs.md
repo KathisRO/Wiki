@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<td>
-			<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #ffe5b2;">
+			<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Database </h1>
 				</div>
@@ -21,23 +21,8 @@
 				[[List of Pets]]<br>
 			</div>
 		</td>
-	<td>
-			<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #ffe5b2;">
-				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
-					<h1> JellyRO NPC Services </h1>
-				</div>
-				[[Custom Items]]<br>
-				[[Super Quest Items]]<br>
-				[[Enchant System]]<br>
-				[[Customized Monsters]]<br>
-				[[Beginner's Weapons]]<br>
-				[[Customized Cards]]<br>
-				[[Endless Tower Mid headgears]]<br>
-				[[List of Pets]]<br>
-			</div>
-		</td>
 		<td>
-			<div style="margin:auto; width:100%; background-color: #f5faff;outline: 1px solid #cedff2;">
+			<div style="margin:auto; width:100%; background-color: #f5faff;outline: 1px solid #cedff2; height:100%; vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #cedff2;outline: 1px solid #a3b0bf;">
 					<h1> Custom Database </h1>
 				</div>
@@ -54,7 +39,34 @@
 				[[Rank Point Checker]]<br>
 			</div>
 		</td>
+	<td>
+			<div style="margin:auto; width:100%; background-color: #efedff;outline: 1px solid #ffe5b2; vertical-align: top;">
+				<div>
+				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #e5c9a1;">
+					<h1> Custom Events and Minigames </h1>
+				</div>
+				[[Beach Volleyball]]<br>
+				[[Bloody Branch Rooms]]<br>
+				[[Faction War]]<br>
+				[[Events]]<br>
+				[[Automated Events]]<br>
+			</div>
+			<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #e5c9a1;">
+					<h1> Miscellaneous customs </h1>
+				</div>
+				[[IsFörsvar]]<br>
+				[[Anne the Ex-Stylist]]<br>
+				[[Biolabs F4 Quick Access]]<br>
+				[[MVP Leaderboards]]<br>
+		</div>
+		</td>
 	</tr>
-	
-	
 </table>
+	<div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
+				<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
+					<h1> Server Information </h1>
+				</div>
+				[[Server Information]]<br>
+				[[Detailed List of Available Commands]]<br>
+				[[War of Emperium Schedule]]<br>
+			</div>

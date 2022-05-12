@@ -42,13 +42,13 @@ this should be changed
 Text inside `backticks` on a line will be formatted like code.
 
 
-<pre><code>```js
+<div style="background-color:#ffe5b2;"><code>```js
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```</code></pre>
+```</code></div>
 
 
 

@@ -7,7 +7,7 @@
 <table>
 	<tr style="height:1px;">
 		<td style="height:inherit;">
-			<div style="padding:5px;margin:auto;  background-color: #ffffe1;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
+			<div style="padding:5px; background-color: #ffffe1;outline: 1px solid #ffe5b2; height:100%;vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Database </h1>
 				</div>
@@ -22,7 +22,7 @@
 			</div>
 		</td>
 		<td style="height:inherit;">
-			<div style="padding:5px;margin:auto; background-color: #f5faff;outline: 1px solid #cedff2; height:100%; vertical-align: top;">
+			<div style="padding:5px; background-color: #f5faff;outline: 1px solid #cedff2; height:100%; vertical-align: top;">
 				<div style="margin:auto; width:100%; background-color: #cedff2;outline: 1px solid #a3b0bf;">
 					<h1> Custom Database </h1>
 				</div>
@@ -40,7 +40,7 @@
 			</div>
 		</td>
 	<td style="height:inherit;">
-			<div style="padding:5px;margin:auto; background-color: #efedff;outline: 1px solid  #efedff; vertical-align: top; height:100%">
+			<div style="padding:5px; background-color: #efedff;outline: 1px solid  #efedff; vertical-align: top; height:100%">
 				<div>
 				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #b1acbf;">
 					<h1> Custom Events and Minigames </h1>
@@ -63,8 +63,8 @@
 	</tr>
 	<tr>
 		<td colspan=3>
-		<div style="padding:5px;margin-top:2px; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
-			<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
+		<div style="padding:5px;margin-top:15px; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
+			<div style="width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
 				<h1> Server Information </h1>
 			</div>
 		[[Server Information]]<br>

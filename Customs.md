@@ -1,4 +1,4 @@
-<div style="margin:auto; width:100%; background-color: #f2f2f2;outline: 1px solid grey;">
+<div style="padding:5px;margin:auto; width:100%; background-color: #f2f2f2;outline: 1px solid grey;">
 	This section provides information about custom content that may be unique to JellyRO.<br>
 	<br>
 	<b>Need More information?</b> Search the <a href="http://cp.jellyro.com">Monster Database</a> or the <a href="http://cp.jellyro.com">Item Database</a> or ask on the <a href="http://forum.jellyro.com">forums</a>!

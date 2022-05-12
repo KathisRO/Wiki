@@ -40,7 +40,7 @@
 			</div>
 		</td>
 	<td style="vertical-align:top; height:inherit;">
-			<div style="margin:auto; width:100%; background-color: #efedff;outline: 1px solid #ffe5b2; vertical-align: top;">
+			<div style="margin:auto; width:100%; background-color: #efedff;outline: 1px solid  #efedff; vertical-align: top;">
 				<div>
 				<div style="margin:auto; width:100%; background-color: #cecef2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Events and Minigames </h1>
@@ -62,11 +62,11 @@
 		</td>
 	</tr>
 </table>
-	<div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
-				<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
-					<h1> Server Information </h1>
-				</div>
-				[[Server Information]]<br>
-				[[Detailed List of Available Commands]]<br>
-				[[War of Emperium Schedule]]<br>
-			</div>
+<div style="margin:auto; width:100%; background-color:#ffeeeb ;outline: 1px solid #ffc1b2; height:100%;vertical-align: top;">
+		<div style="margin:auto; width:100%; background-color: #ffc1b2;outline: 1px solid #e5a495;">
+				<h1> Server Information </h1>
+		</div>
+		[[Server Information]]<br>
+		[[Detailed List of Available Commands]]<br>
+		[[War of Emperium Schedule]]<br>
+</div>

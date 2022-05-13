@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 32.774193548387096,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Customs.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -17,11 +20,8 @@
         "type": "leaf",
         "dimension": 67.2258064516129,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Customs.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -106,7 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "d7bf58e758214710",
   "lastOpenFiles": [
     "Customs.md",
     "index.md",

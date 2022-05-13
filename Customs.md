@@ -1,4 +1,3 @@
-#custom_items #Super_Quest_Items
 <div style="padding:5px;margin:auto; width:100%; background-color: #f2f2f2;outline: 1px solid grey;">
 	This section provides information about custom content that may be unique to JellyRO.<br>
 	<br>

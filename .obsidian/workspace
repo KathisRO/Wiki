@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 32.774193548387096,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Customs.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7bf58e758214710",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
     "Customs.md",
     "index.md",

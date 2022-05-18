@@ -6,11 +6,11 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 32.774193548387096,
+        "dimension": 50.83798882681564,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Customs.md",
+            "file": "Prontera.md",
             "mode": "source"
           }
         }
@@ -18,10 +18,13 @@
       {
         "id": "d7bf58e758214710",
         "type": "leaf",
-        "dimension": 67.2258064516129,
+        "dimension": 49.162011173184354,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Prontera.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prontera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,12 +110,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7bf58e758214710",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Customs.md",
+    "Prontera.md",
     "index.md",
-    "sidebar.md",
+    "Customs.md",
+    "Guilds.md",
     "Images/logo.png",
+    "sidebar.md",
     "Start-Up Guide.md",
     "Commands.md"
   ]

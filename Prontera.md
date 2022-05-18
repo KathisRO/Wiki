@@ -1,4 +1,9 @@
-#Town
+---
+tags:
+  - Town
+  - tag2
+---
+
 ![[prontera.png]]
 
 **Prontera** is known as the Capital of Rune-Midgarts Kingdom. It is home to the [[Acolyte Guild|Acolyte]], [[Priest Guild|Priest]], [[Knight Guild|Knight]], and [[Crusader Guild|Crusader]] guilds. 

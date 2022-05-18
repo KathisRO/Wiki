@@ -1,7 +1,8 @@
 ---
 tags:
   - Town
-  - tag2
+  - Midgard
+  - Guilds
 ---
 
 ![[prontera.png]]

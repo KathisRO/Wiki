@@ -6,7 +6,7 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 47.391304347826086,
+        "dimension": 17.391304347826086,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,13 +18,10 @@
       {
         "id": "d7bf58e758214710",
         "type": "leaf",
-        "dimension": 52.60869565217391,
+        "dimension": 82.6086956521739,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Prontera.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

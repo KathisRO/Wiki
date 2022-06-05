@@ -6,11 +6,11 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 35.37469782433522,
+        "dimension": 37.17741935483871,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Endless Tower.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "c4cef5ccc7860927",
         "type": "leaf",
-        "dimension": 64.62530217566477,
+        "dimension": 62.82258064516129,
         "state": {
           "type": "markdown",
           "state": {
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
     "index.md",
+    "Endless Tower.md",
+    "Images/Endless_captainjanssen.jpg",
     "conflict-files-obsidian-git.md",
     "Prontera.md",
     "Rune Midgard.md",
     "Customs.md",
     "Guilds.md",
     "Images/logo.png",
-    "sidebar.md",
-    "Start-Up Guide.md",
-    "Commands.md"
+    "sidebar.md"
   ]
 }

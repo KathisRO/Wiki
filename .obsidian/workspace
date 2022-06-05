@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Endless Tower.md",
+            "file": "Items/Red Potion.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Endless Tower.md",
+            "file": "Items/Red Potion.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endless Tower.md",
+                "file": "Items/Red Potion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
+    "Items/Red Potion.md",
     "Endless Tower.md",
     "Guilds.md",
     "sidebar.md",
@@ -122,7 +123,6 @@
     "Customs.md",
     "conflict-files-obsidian-git.md",
     "index.md",
-    "Images/Endless_captainjanssen.jpg",
-    "Rune Midgard.md"
+    "Images/Endless_captainjanssen.jpg"
   ]
 }

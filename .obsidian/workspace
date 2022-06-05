@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Endless.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Endless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
+    "Endless.md",
     "index.md",
     "Endless Tower.md",
     "Images/Endless_captainjanssen.jpg",
@@ -120,7 +121,6 @@
     "Rune Midgard.md",
     "Customs.md",
     "Guilds.md",
-    "Images/logo.png",
-    "sidebar.md"
+    "Images/logo.png"
   ]
 }

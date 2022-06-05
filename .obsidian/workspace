@@ -20,11 +20,8 @@
         "type": "leaf",
         "dimension": 62.82258064516129,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Endless.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +108,11 @@
   },
   "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Endless.md",
     "index.md",
     "Endless Tower.md",
     "Images/Endless_captainjanssen.jpg",
-    "conflict-files-obsidian-git.md",
     "Prontera.md",
     "Rune Midgard.md",
     "Customs.md",

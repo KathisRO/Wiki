@@ -6,24 +6,24 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 43.562231759656655,
+        "dimension": 35.37469782433522,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prontera.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d7bf58e758214710",
+        "id": "c4cef5ccc7860927",
         "type": "leaf",
-        "dimension": 56.437768240343345,
+        "dimension": 64.62530217566477,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prontera.md",
-            "mode": "preview"
+            "file": "index.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prontera.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,10 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "index.md",
+    "conflict-files-obsidian-git.md",
     "Prontera.md",
     "Rune Midgard.md",
-    "index.md",
     "Customs.md",
     "Guilds.md",
     "Images/logo.png",

@@ -8,12 +8,10 @@
         "type": "leaf",
         "dimension": 63.25203252032521,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Customs.md",
-            "mode": "source"
-          }
-        }
+          "type": "empty",
+          "state": {}
+        },
+        "group": "48c6b41159d9e9f2"
       },
       {
         "id": "c4cef5ccc7860927",
@@ -22,7 +20,8 @@
         "state": {
           "type": "empty",
           "state": {}
-        }
+        },
+        "group": "48c6b41159d9e9f2"
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,12 +105,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
-    "Customs.md",
-    "Endless Tower.md",
-    "conflict-files-obsidian-git.md",
     "Endless.md",
+    "Endless Tower.md",
+    "Customs.md",
+    "conflict-files-obsidian-git.md",
     "index.md",
     "Images/Endless_captainjanssen.jpg",
     "Prontera.md",

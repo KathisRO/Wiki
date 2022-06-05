@@ -11,7 +11,7 @@
 				<div style="margin:auto; width:100%; background-color: #ffe5b2;outline: 1px solid #e5c9a1;">
 					<h1> Custom Database </h1>
 				</div>
-				[[Custom Items]]<br>
+				<a href="Custom Items.md" class="internal-link">Custom Items</a><br>
 				[[Super Quest Items]]<br>
 				[[Enchant System]]<br>
 				[[Customized Monsters]]<br>

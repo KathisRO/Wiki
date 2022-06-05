@@ -6,11 +6,11 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 47.391304347826086,
+        "dimension": 47.39130434782609,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prontera.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prontera.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +112,9 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "index.md",
     "Prontera.md",
     "Rune Midgard.md",
-    "index.md",
     "Customs.md",
     "Guilds.md",
     "Images/logo.png",

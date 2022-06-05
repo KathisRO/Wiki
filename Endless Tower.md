@@ -28,7 +28,9 @@ The following restrictions are in effect inside the tower:
 Boss-protocol mobs are highlighted in Blue.
 
 **Monsters on floor 1-25**
-
+> 1-5 | 6-10 | 11-15 | 16-20 | 21-25 
+--- | --- | --- | --- | --- 
+15 Metaling  <br>5 Drops  <br>5 Marin  <br>5 Poporing  <br>5 Poring  <br>1 Mastering | 5 Dragon Egg  <br>5 Pecopeco Egg  <br>5 Pupa  <br>5 Thiefbug Egg |15 Dryad <br>15 Wild Ginseng  <br>15 Parasite  <br>15 Rafflesia |10 Archer Skeleton <br> 10 Gargoyle <br> 10 Orc Archer <br>10 Raydric Archer|10 Plasma (Purple) <br>10 Plasma (Yellow) <br>5 Plasma (Blue) <br>5 Plasma (Green) <br>5 Plasma (Red)
 
 end of file
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Customs.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Customs.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Customs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Customs.md",
     "index.md",
     "Guilds.md",
     "Items/Red Potion.md",
@@ -121,7 +122,6 @@
     "sidebar.md",
     "Prontera.md",
     "Endless.md",
-    "Customs.md",
     "conflict-files-obsidian-git.md",
     "Images/Endless_captainjanssen.jpg"
   ]

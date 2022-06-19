@@ -1,6 +1,6 @@
-^^^
+§
 	[[Super Quest Items]]
-^^^
+§
 
 
 <div style="padding:5px;margin:auto; width:100%; background-color: #f2f2f2;outline: 1px solid grey;">

@@ -23,9 +23,11 @@ If you want to link further on a page put a # in the tag like [[#index]]  Howeve
 
 [display](http://www.google.com)  <- This will show the display text, but link to the url in the brackets. 
 
-[[#header]] <- This will show a link without the #, and jump to that header. 
+[[#header]] <- This will show a link without the #, and jump to that header on the current page.
 
+[[page#header]] <-This will link to the page with the header, it will show the Header tag. 
 
+[[page#header|display]] <- this will show the display, and jump to the page's header that matches. 
 
 ```
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
+            "file": "Customs.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
+            "file": "Customs.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax.md",
+                "file": "Customs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Customs.md",
+    "Npcs/Job Changer.md",
     "Syntax.md",
     "index.md",
     "Guilds.md",
-    "Customs.md",
     "Prontera.md",
     "Endless Tower.md",
     "Items/Red Potion.md",
     "sidebar.md",
-    "Endless.md",
-    "conflict-files-obsidian-git.md"
+    "Endless.md"
   ]
 }

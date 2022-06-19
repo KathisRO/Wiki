@@ -5,6 +5,8 @@ this should be changed
 
 [[#This is a heading 1]]
 
+[[Syntax#Internal Links]]
+
 [[#This is a heading 3|this displays a different thing for heading 3]]
 
 [external link test](http://www.google.com)

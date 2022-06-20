@@ -80,7 +80,7 @@ Content in the first column | Content in the second column
 
 > <table><tr><td>test</td><td>test2</td></tr><tr><td>test3</td><td>test4</td></tr></table>
 	>> test inside?
-	>>> test inside inside?
+	>>> test inside inside new?
 
 Any word <u>wrapped</u> with two tildes (like ~~this~~) will appear crossed out.
 

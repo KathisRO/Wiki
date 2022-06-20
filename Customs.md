@@ -1,5 +1,6 @@
 ~start
 	[[Super Quest Items]]
+	[[Npcs/Job Changer]]
 end~
 
 

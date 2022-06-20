@@ -109,6 +109,8 @@ Note: to put a box inside of another box you need to add additional ``>``
 ^ this requires an empty line to end the boxs. 
 ```
 
+Note: It might not be possible to put a collapse box inside a table.
+
 # Lists
 
 There are two types of lists that you can use, numeric and bullets. 

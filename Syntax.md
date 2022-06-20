@@ -66,6 +66,11 @@ Tags are made with 3 hyphans, the word tag: and then a hyphan for each tag. Clos
 
 Tags are useful for obsidian since you can search and color by tags in the graphic view. 
 	
+# Spoiler / Collapsible
 
+The syntax for this is basically a `` > `` Obsidian will show it as a box in the reader, you cannot collapse it in obsidian, but the site will treat this as a collapsible box. 
+>it looks like this
+>you can do multiple lines
+>and it will contiune. 
 
 end~

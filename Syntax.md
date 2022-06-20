@@ -88,6 +88,8 @@ But you need to have a clean line after the block. Otherwise it will thing it al
 >this, but these will
 >appear on the same line on the site.
 
+Note: You cannot put mulitple collapses inside each other. 
+
 # Lists
 
 There are two types of lists that you can use, numeric and bullets. 
@@ -110,6 +112,8 @@ Bullet lists are done like so
 	+ Item 2b
 ```
 Though the bullets do work with - * and + It may be better to use - or + since * is used for formating like Bold and italics. Also don't interchange the symbol you use, stick with 1 type.
+
+When you indend the bullet will change shape to help readability. The first level is ●. The second is ○, and any others after will be ■
 
 Numeric lists can be done like so.
 ```

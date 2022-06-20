@@ -79,6 +79,28 @@ But you need to have a clean line after the block. Otherwise it will thing it al
 >this, but these will
 >appear on the same line on the site.
 
+# Lists
 
+There are two types of lists that you can use, numeric and bullets. 
+
+Bullet lists are done like so
+```
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
+  
+* Item 1
+* Item 2
+	* Item 2a
+	* Item 2b
+
++ Item 1
++ Item 2
+	+ Item 2a
+	+ Item 2b
+```
+
+Though the bullets do work 
 
 end~

@@ -50,6 +50,9 @@ Putting it like
 ```
 Will actully make a markup tag.  This is still treated as a Header 1 in the wiki, but obsidian will not see it as such. 
 
+# Emphasis
+*Italic text*, **Bold Text**, ***Italic bold text***, 
+
 # Tags
 Tags are useful for us, I might make the wiki have it searchable by tags at some point, but I don't feel like that will be needed, if we're allow them to search the entire page. 
 
@@ -100,7 +103,35 @@ Bullet lists are done like so
 	+ Item 2a
 	+ Item 2b
 ```
+Though the bullets do work with - * and + It may be better to use - or + since * is used for formating like Bold, italics, and underline. Also don't interchange the symbol you use, stick with 1 type.
 
-Though the bullets do work 
+Numeric lists can be done like so.
+```
+1. Item 1
+2. Item 2
+  1. Item 2a
+  2. Item 2b
+  
+1. Item 1
+1. Item 2
+	1. Item 2a
+	1. Item 2b
+
+1. Item 1
+8. Item 2
+	5. Item 2a
+	2. Item 2b
+
+```
+The order of the numbers don't seem to matter, just that it started with a number followed by a period followed by a Space. 
+
+Notes: That if your unorder list starts with a number followed by a period you need to put a \ slash. 
+
+```
+- 2005\. The start of the server.
+- 2018\. The year Kathis became server owner.
+```
+
+
 
 end~

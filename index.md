@@ -3,7 +3,7 @@ this should be changed
 
 [[Internal link test|a difficult test]]
 
-[[#group 3 heading 2]]
+<u>[[#group 3 heading 2]]</u>
 
 [[Syntax#Internal Links]]
 
@@ -48,7 +48,7 @@ this should be changed
 
 ## group 3 heading 2
 ### group 3 heading 3 
-> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing <u>with</u> these problems is a matter that is critical to the stability and continued progress of society.
 > test
 
 \- Doug Engelbart, 1961
@@ -79,7 +79,7 @@ Content in the first column | Content in the second column
 \- Doug Engelbart, 1961
 
 
-Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+Any word <u>wrapped</u> with two tildes (like ~~this~~) will appear crossed out.
 
 
 Use two equal signs to ==highlight text==.

@@ -78,9 +78,15 @@ Content in the first column | Content in the second column
 
 \- Doug Engelbart, 1961
 
-> <table><tr><td>test</td><td>test2</td></tr><tr><td>test3</td><td>test4</td></tr></table>
-	>> test inside?
-	>>> test inside inside new?
+> <table><tr><td>
+>> test inside?
+	
+</td><td> 
+>> test inside? 
+	
+</td></tr><tr><td>test3</td><td>test4</td></tr></table>
+	
+	
 
 Any word <u>wrapped</u> with two tildes (like ~~this~~) will appear crossed out.
 

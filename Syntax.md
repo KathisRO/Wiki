@@ -90,7 +90,14 @@ But you need to have a clean line after the block. Otherwise it will thing it al
 >this, but these will
 >appear on the same line on the site.
 
-Note: You cannot put mulitple collapses inside each other. 
+Note: to put a box inside of another box you need to add additional ``>`` 
+```
+> box one
+>> box two
+>>> box three
+
+^ this requires an empty line to end the boxs. 
+```
 
 # Lists
 
@@ -164,7 +171,9 @@ Notice the space after before the first pipe. If there are no headers, the wiki 
 
 Further you can also use html if you desire. If you don't include the border=1 however it will default to no borders. 
 
+# The Double edge of HTML
 
+Though html is amazing and powerful, Obsidian will not show normal markup languages renders while encased in html. The Site however can still function properly. Because it's looking for patterns in the string that was sent via github. So do remember this.
 
 
 end~

@@ -32,7 +32,7 @@ end~
 					<h1> Custom Database </h1>
 				</div>
 				[[Town Serivces]]<br>
-				[[Job Changer]]<br>
+				[[Npcs/Job Changer]]<br>
 				[[Stat/Skill Reset]]<br>
 				[[Stylist]]<br>
 				[[Cart/Falcon/Pecp Peco Rental Npc]]<br>

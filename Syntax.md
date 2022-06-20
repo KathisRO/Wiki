@@ -134,6 +134,24 @@ Notes: That if your unorder list starts with a number followed by a period you n
 - 2018\. The year Kathis became server owner.
 ```
 
+# Tables
+Tables are used to help the information look more smoother. 
 
+```
+First Header | Second Header
+------------ | ------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+```
+
+The first row will always be the header.  each line (enter) will make a new row. Under the headers require  
+```
+ |
+- | -
+ |
+```
+Notice the space after before the first pipe. If there are no headers, the wiki will make the table borderless. Though obsidian does not reflect this.  Putting a space between the pipes will make an empty cell. You can put as many - as you wish. It only effects readability. 
+
+Further you can also use html if you desire. 
 
 end~

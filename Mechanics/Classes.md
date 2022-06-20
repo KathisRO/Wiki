@@ -18,18 +18,18 @@ Once the character has advanced to Job Level 10, they can choose one of the foll
 
 #### Standard
 
-* [[Mechanics/Acolyte|Acolyte]] 
-* [[Mechanics/Archer|Archer]] 
-* [[Mechanics/Mage|Mage]]
-* [[Mechanics/Merchant|Merchant]]
-* [[Mechanics/Theif|Theif]] 
-* [[Mechanics/Swordsman|Swordsman]]
++ [[Mechanics/Acolyte|Acolyte]] 
++ [[Mechanics/Archer|Archer]] 
++ [[Mechanics/Mage|Mage]]
++ [[Mechanics/Merchant|Merchant]]
++ [[Mechanics/Theif|Theif]] 
++ [[Mechanics/Swordsman|Swordsman]]
 
 #### Extended
 With the exception of Taekwon Extended classes do not advance further.
-* [[Mechanics/Taekwon|Taekwon]]
-* [[Mechanics/Ninja|Ninja]]
-* [[Mechanics/Gunslinger|Gunslinger]]
++ [[Mechanics/Taekwon|Taekwon]]
++ [[Mechanics/Ninja|Ninja]]
++ [[Mechanics/Gunslinger|Gunslinger]]
 
 
 ### Second Classes
@@ -39,27 +39,27 @@ These classes are accessable to the character when they hit job level 40. Howeve
 
 These classes can become transended. 
 
-* [[Mechanics/Alchemist|Alchemist]]
-* [[Mechanics/Assassin|Assassin]]
-* [[Mechanics/Bard|Bard]] If Male
-* [[Mechanics/Blacksmith|Blacksmith]]
-* [[Mechanics/Crusader|Crusader]]
-* [[Mechanics/Dancer|Dancer]] If Female
-* [[Mechanics/Hunter|Hunter]]
-* [[Mechanics/Knight|Knight]]
-* [[Mechanics/Monk|Monk]]
-* [[Mechanics/Priest|Priest]]
-* [[Mechanics/Rogue|Rogue]]
-* [[Mechanics/Sage|Sage]]
-* [[Mechanics/Wizard|Wizard]]
++ [[Mechanics/Alchemist|Alchemist]]
++ [[Mechanics/Assassin|Assassin]]
++ [[Mechanics/Bard|Bard]] If Male
++ [[Mechanics/Blacksmith|Blacksmith]]
++ [[Mechanics/Crusader|Crusader]]
++ [[Mechanics/Dancer|Dancer]] If Female
++ [[Mechanics/Hunter|Hunter]]
++ [[Mechanics/Knight|Knight]]
++ [[Mechanics/Monk|Monk]]
++ [[Mechanics/Priest|Priest]]
++ [[Mechanics/Rogue|Rogue]]
++ [[Mechanics/Sage|Sage]]
++ [[Mechanics/Wizard|Wizard]]
 
 #### Extended
 
 These classes cannot become transended
 
-* [[Mechanics/Soul Linker|Soul Linker]]
-* [[Mechanics/Taekwon Master|Taekwon Master]]
-* [[Mechanics/Super Novice|Super Novice]] If still Novice by base level 45.
++ [[Mechanics/Soul Linker|Soul Linker]]
++ [[Mechanics/Taekwon Master|Taekwon Master]]
++ [[Mechanics/Super Novice|Super Novice]] If still Novice by base level 45.
 
 ## Transended Classes
 These Classes are available after you rebirth. Gear will refer to these classes as Trans for short. Pervious classes no longer are applicable for gear. 
@@ -69,27 +69,27 @@ Like before you start as a novice, but this time you are a [[Mechanics/High Novi
 
 ### Trans First Classes
 
-* [[Mechanics/High Acolyte|High Acolyte]] 
-* [[Mechanics/High Archer|High Archer]] 
-* [[Mechanics/High Mage|High Mage]]
-* [[Mechanics/High Merchant|High Merchant]]
-* [[Mechanics/High Theif|High Theif]] 
-* [[Mechanics/High Swordsman|High Swordsman]]
++ [[Mechanics/High Acolyte|High Acolyte]] 
++ [[Mechanics/High Archer|High Archer]] 
++ [[Mechanics/High Mage|High Mage]]
++ [[Mechanics/High Merchant|High Merchant]]
++ [[Mechanics/High Theif|High Theif]] 
++ [[Mechanics/High Swordsman|High Swordsman]]
 
 ### Trans Second Classes
-* [[Mechanics/Assassin Cross|Assassin Cross]]
-* [[Mechanics/Biochemist|Biochemist]]
-* [[Mechanics/Champion|Champion]]
-* [[Mechanics/Gypsy|Gypsy]]
-* [[Mechanics/High Priest|High Priest]]
-* [[Mechanics/High Wizard|High Wizard]] 
-* [[Mechanics/Lord Knight|Lord Knight]]
-* [[Mechanics/Minstrel|Minstrel]] If male
-* [[Mechanics/Paladin|Paladin]]
-* [[Mechanics/Scholar|Scholar]] 
-* [[Mechanics/Sniper|Sniper]]
-* [[Mechanics/Stalker|Stalker]]
-* [[Mechanics/White Smith|White Smith]]
++ [[Mechanics/Assassin Cross|Assassin Cross]]
++ [[Mechanics/Biochemist|Biochemist]]
++ [[Mechanics/Champion|Champion]]
++ [[Mechanics/Gypsy|Gypsy]]
++ [[Mechanics/High Priest|High Priest]]
++ [[Mechanics/High Wizard|High Wizard]] 
++ [[Mechanics/Lord Knight|Lord Knight]]
++ [[Mechanics/Minstrel|Minstrel]] If male
++ [[Mechanics/Paladin|Paladin]]
++ [[Mechanics/Scholar|Scholar]] 
++ [[Mechanics/Sniper|Sniper]]
++ [[Mechanics/Stalker|Stalker]]
++ [[Mechanics/White Smith|White Smith]]
 
 
 ## Baby Classes
@@ -98,30 +98,30 @@ With the Family system. Players can be adopted into a family with a married coup
 ### Adopted Classes
 These are the classes the character will become when they get adopted.
 
-* [[Mechanics/Baby Novice|Baby Novice]]
-* [[Mechanics/Baby Acolyte|Baby Acolyte]]
-* [[Mechanics/Baby Archer|Baby Archer]]
-* [[Mechanics/Baby Mage|Baby Mage]]
-* [[Mechanics/Baby Merchant|Baby Merchant]]
-* [[Mechanics/Baby Theif|Baby Theif]]
-* [[Mechanics/Baby Swordman|Baby Swordman]]
++ [[Mechanics/Baby Novice|Baby Novice]]
++ [[Mechanics/Baby Acolyte|Baby Acolyte]]
++ [[Mechanics/Baby Archer|Baby Archer]]
++ [[Mechanics/Baby Mage|Baby Mage]]
++ [[Mechanics/Baby Merchant|Baby Merchant]]
++ [[Mechanics/Baby Theif|Baby Theif]]
++ [[Mechanics/Baby Swordman|Baby Swordman]]
 
 ### Second Adopted Classes
 The Baby class can advance to the following classes.
 
-* [[Mechanics/Baby Alchemist|Baby Alchemist]]
-* [[Mechanics/Baby Assassin|Baby Assassin]]
-* [[Mechanics/Baby Bard|Baby Bard]] if Male
-* [[Mechanics/Baby Blacksmith|Baby Blacksmith]]
-* [[Mechanics/Baby Crusader|Baby Crusader]]
-* [[Mechanics/Baby Dancer|Baby Dancer]] If Female
-* [[Mechanics/Baby Hunter|Baby Hunter]]
-* [[Mechanics/Baby Knight|Baby Knight]]
-* [[Mechanics/Baby Monk|Baby Monk]]
-* [[Mechanics/Baby Priest|Baby Priest]]
-* [[Mechanics/Baby Rogue|Baby Rogue]]
-* [[Mechanics/Baby Sage|Baby Sage]]
-* [[Mechanics/Baby Wizard|Baby Wizard]]
++ [[Mechanics/Baby Alchemist|Baby Alchemist]]
++ [[Mechanics/Baby Assassin|Baby Assassin]]
++ [[Mechanics/Baby Bard|Baby Bard]] if Male
++ [[Mechanics/Baby Blacksmith|Baby Blacksmith]]
++ [[Mechanics/Baby Crusader|Baby Crusader]]
++ [[Mechanics/Baby Dancer|Baby Dancer]] If Female
++ [[Mechanics/Baby Hunter|Baby Hunter]]
++ [[Mechanics/Baby Knight|Baby Knight]]
++ [[Mechanics/Baby Monk|Baby Monk]]
++ [[Mechanics/Baby Priest|Baby Priest]]
++ [[Mechanics/Baby Rogue|Baby Rogue]]
++ [[Mechanics/Baby Sage|Baby Sage]]
++ [[Mechanics/Baby Wizard|Baby Wizard]]
 
 ---
 

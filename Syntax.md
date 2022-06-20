@@ -51,7 +51,9 @@ Putting it like
 Will actully make a markup tag.  This is still treated as a Header 1 in the wiki, but obsidian will not see it as such. 
 
 # Emphasis
-*Italic text*, **Bold Text**, ***Italic bold text***, 
+*Italic text*, **Bold Text**, ***Italic bold text***, <u>Underline</u>
+
+Unfrotuantely the underline doesn't have it's own special markdown symbol, but you can still use html tags to acheive it. 
 
 # Tags
 Tags are useful for us, I might make the wiki have it searchable by tags at some point, but I don't feel like that will be needed, if we're allow them to search the entire page. 
@@ -103,7 +105,7 @@ Bullet lists are done like so
 	+ Item 2a
 	+ Item 2b
 ```
-Though the bullets do work with - * and + It may be better to use - or + since * is used for formating like Bold, italics, and underline. Also don't interchange the symbol you use, stick with 1 type.
+Though the bullets do work with - * and + It may be better to use - or + since * is used for formating like Bold and italics. Also don't interchange the symbol you use, stick with 1 type.
 
 Numeric lists can be done like so.
 ```

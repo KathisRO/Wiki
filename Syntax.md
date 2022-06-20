@@ -5,7 +5,7 @@ Firstly you will notice that everything is between a ~start and end ~ tag. These
 I have a space after the end  so it doesn't end earily. 
 
 # Internal Links
-Use them for placing internal links into the page, that we want to still see connected in the graph view on obsidian. (For example if you want to go super pretty and use html. Links inside will not be shown on the graph view, though our tools are able to pretty much pick up the links easily enough.) 
+Use them for placing internal links into the page, that we want to still see connected in the graph view on obsidian. (For example if you want to go super pretty and use html. Links inside will not be shown on the graph view, though our tools are able to pretty much pick up the links easily enough.)  
 
 DO NOT use ``<a href>`` in the html tags. The wiki doesn't care about it, and will simply ignore it during pharsing. That is another good reason to have the links in the ~start and end ~ block.  If you need to refer to an external page (not included in the wiki) use [display](http://www.google.com)
 
@@ -31,6 +31,7 @@ If you want to link further on a page put a # in the tag like [[#index]]  Howeve
 
 ```
 
+Note: If a page doesn't exist in github, or the site cannot find the page, it will display the link as plain text. Thus making it hard for players to find dead links. Obsidian will still see the dead links however.
 
 # Headers
 Headers are done like so.
@@ -152,6 +153,9 @@ The first row will always be the header.  each line (enter) will make a new row.
 ```
 Notice the space after before the first pipe. If there are no headers, the wiki will make the table borderless. Though obsidian does not reflect this.  Putting a space between the pipes will make an empty cell. You can put as many - as you wish. It only effects readability. 
 
-Further you can also use html if you desire. 
+Further you can also use html if you desire. If you don't include the border=1 however it will default to no borders. 
+
+
+
 
 end~

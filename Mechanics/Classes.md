@@ -4,7 +4,7 @@ Each new character starts as a [[Mechanics/Novice|Novice]].
 After the character reaches Job level 10, they are able to advance to their First Class. This page will list what each class is. Each class will have a more detailed page to explain the class.
 
 
----
+----
 
 ## Non-Transended Classes
 JellyRO has a Rebirth system that once you rebirth you are considered transended.
@@ -123,7 +123,7 @@ The Baby class can advance to the following classes.
 + [[Mechanics/Baby Sage|Baby Sage]]
 + [[Mechanics/Baby Wizard|Baby Wizard]]
 
----
+----
 
 # Changing Classes
 

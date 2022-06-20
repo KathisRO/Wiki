@@ -52,7 +52,10 @@ Putting it like
 Will actully make a markup tag.  This is still treated as a Header 1 in the wiki, but obsidian will not see it as such. 
 
 # Emphasis
-*Italic text*, **Bold Text**, ***Italic bold text***, <u>Underline</u>
+*Italic text*, **Bold Text**, ***Italic bold text***, <u>Underline</u>, ~~stricked~~
+```
+*Italic text*, **Bold Text**, ***Italic bold text***, <u>Underline</u>, ~~stricked~~
+```
 
 Unfrotuantely the underline doesn't have it's own special markdown symbol, but you can still use html tags to acheive it. 
 

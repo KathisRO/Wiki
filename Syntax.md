@@ -70,7 +70,15 @@ Tags are useful for obsidian since you can search and color by tags in the graph
 
 The syntax for this is basically a `` > `` Obsidian will show it as a box in the reader, you cannot collapse it in obsidian, but the site will treat this as a collapsible box. 
 >it looks like this
->you can do multiple lines
->and it will contiune. 
+you can do multiple lines
+and it will contiune. 
+
+But you need to have a clean line after the block. Otherwise it will thing it all needs to be in the same box. 
+
+>You can also go like
+>this, but these will
+>appear on the same line on the site.
+
+
 
 end~

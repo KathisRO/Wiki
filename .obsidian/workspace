@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Syntax.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Syntax.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +114,10 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "index.md",
-    "Customs.md",
-    "Npcs/Job Changer.md",
     "Syntax.md",
+    "Customs.md",
+    "index.md",
+    "Npcs/Job Changer.md",
     "Guilds.md",
     "Prontera.md",
     "Endless Tower.md",

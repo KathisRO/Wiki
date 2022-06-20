@@ -78,13 +78,11 @@ Content in the first column | Content in the second column
 
 \- Doug Engelbart, 1961
 
-> <table><tr><td>
->> test inside?
-	
-</td><td> 
->> test inside? 
-	
-</td></tr><tr><td>test3</td><td>test4</td></tr></table>
+>  | 
+------------ | ------------
+>>Content from cell 1 | >>Content from cell 2
+>>Content in >>>the first column | >>Content in the >>>second column
+ 
 	
 	
 

@@ -4,6 +4,16 @@
 Firstly you will notice that everything is between a ~start and end ~ tag. These will be completely ignored byt the site. But not from obsidian. 
 I have a space after the end  so it doesn't end earily. 
 
+[[#Internal Links]]
+[[#Headers]]
+[[#Emphasis]]
+[[#Tags]]
+[[#Spoiler Collapsible]]
+[[#Lists]]
+[[#Tables]]
+[[#The Double edge of HTML]]
+
+
 # Internal Links
 Use them for placing internal links into the page, that we want to still see connected in the graph view on obsidian. (For example if you want to go super pretty and use html. Links inside will not be shown on the graph view, though our tools are able to pretty much pick up the links easily enough.)  
 

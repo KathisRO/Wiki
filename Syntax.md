@@ -73,7 +73,9 @@ tags:
 
 Tags are made with 3 hyphans, the word tag: and then a hyphan for each tag. Closed off by 3 hyphans. 
 
-Tags are useful for obsidian since you can search and color by tags in the graphic view. 
+Tags are useful for obsidian since you can search and color by tags in the graphic view. Also in the view mode you can click on the tag and it will show other pages that the tag is in. 
+
+The Wiki will not show tags. Though we can make the database STORE the tags for faster searchability later. 
 	
 # Spoiler / Collapsible
 

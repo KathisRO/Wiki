@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Classes.md",
+            "file": "Syntax.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Classes.md",
+            "file": "Syntax.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Classes.md",
+                "file": "Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,9 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Syntax.md",
     "Mechanics/Classes.md",
     "Prontera.md",
-    "Syntax.md",
     "Npcs/Job Changer.md",
     "index.md",
     "Guilds.md",

@@ -98,7 +98,7 @@ With the Family system. Players can be adopted into a family with a married coup
 ### Adopted Classes
 These are the classes the character will become when they get adopted.
 
-+ [[Mechanics/Baby Novice|Baby Novice]]
++ [[Mechanics/Baby|Baby]]
 + [[Mechanics/Baby Acolyte|Baby Acolyte]]
 + [[Mechanics/Baby Archer|Baby Archer]]
 + [[Mechanics/Baby Mage|Baby Mage]]

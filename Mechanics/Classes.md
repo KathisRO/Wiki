@@ -27,7 +27,7 @@ Once the character has advanced to Job Level 10, they can choose one of the foll
 
 #### Extended
 With the exception of Taekwon Extended classes do not advance further.
-+ [[Mechanics/Taekwon|Taekwon]]
++ [[Mechanics/Taekwon Kid|Taekwon Kid]]
 + [[Mechanics/Ninja|Ninja]]
 + [[Mechanics/Gunslinger|Gunslinger]]
 
@@ -58,7 +58,7 @@ These classes can become transended.
 These classes cannot become transended
 
 + [[Mechanics/Soul Linker|Soul Linker]]
-+ [[Mechanics/Taekwon Master|Taekwon Master]]
++ [[Mechanics/Star Gladiator|Star Gladiator]]
 + [[Mechanics/Super Novice|Super Novice]] If still Novice by base level 45.
 
 ## Transended Classes
@@ -78,7 +78,7 @@ Like before you start as a novice, but this time you are a [[Mechanics/High Novi
 
 ### Trans Second Classes
 + [[Mechanics/Assassin Cross|Assassin Cross]]
-+ [[Mechanics/Biochemist|Biochemist]]
++ [[Mechanics/Creator|Creator]]
 + [[Mechanics/Champion|Champion]]
 + [[Mechanics/Gypsy|Gypsy]]
 + [[Mechanics/High Priest|High Priest]]
@@ -86,7 +86,7 @@ Like before you start as a novice, but this time you are a [[Mechanics/High Novi
 + [[Mechanics/Lord Knight|Lord Knight]]
 + [[Mechanics/Minstrel|Minstrel]] If male
 + [[Mechanics/Paladin|Paladin]]
-+ [[Mechanics/Scholar|Scholar]] 
++ [[Mechanics/Professor|Professor]] 
 + [[Mechanics/Sniper|Sniper]]
 + [[Mechanics/Stalker|Stalker]]
 + [[Mechanics/White Smith|White Smith]]

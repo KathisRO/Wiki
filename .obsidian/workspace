@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 63.25203252032521,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics/Classes.md",
+            "mode": "source"
+          }
         },
         "group": "3943bb7605abf415"
       },
@@ -20,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prontera.md",
+            "file": "Mechanics/Classes.md",
             "mode": "preview"
           }
         },
@@ -64,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "right": {
     "id": "ea1acccb1fcb27c0",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +114,8 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Prontera.md",
     "Mechanics/Classes.md",
+    "Prontera.md",
     "Npcs/Job Changer.md",
     "Endless Tower.md",
     "Customs.md",

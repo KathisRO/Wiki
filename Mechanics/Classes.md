@@ -129,3 +129,8 @@ The Baby class can advance to the following classes.
 
 To change your class, each class has a special quest or condition that can be met. If you are lazy and don't want to play the game, there is always the [[Npcs/Job Changer|Job Changer]] Npc that you could use.  
 
+
+## Table
+
+-|-|-|-
+-|-|-|-

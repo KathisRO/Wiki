@@ -132,34 +132,62 @@ To change your class, each class has a special quest or condition that can be me
 
 ## Table
 
- ||||||||||||||||||||||
- :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
- | | | | | | |Ninja|◄─|─|Novice|─|─►|Gunslinger| | | | | | | | | 
- | | | | | | | | | |│| | | | | | | | | | | | 
- | |┌|──|──|─┬─|──|──|─┬─|─|┼|─|┬|─|─|┬|─|─|┬|─|─|─|┐
- | |▼| | |▼| | |▼| |▼| |▼| | |▼| | |▼| | | |▼|
- ||Swordman|||Mage|||Thief||Super Novice||Acholyte|||Merchant|||Archer||||Taekwon Kid|
-┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||┌|──┴──|┐
-▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||▼||▼
-Knight||Crusader|Wizard||Sage|Rogue||Assassin||Priest||Monk|Blacksmith||Alchemist|Hunter||Bard / Dancer||Soul Linker||Star Gladiator
-│||│|│||│|│||│||│||│|│||│|│||│||||
-└|─|┴|┴|─|┴|┴|─|┴|┬|┴|─|┴|┴|─|┴|┴|─|┘||||
- ||||||||||▼||||||||||||
- ||||||||||High Novice||||||||||||
- ||||||||||│|||||||||||
- ||┌|─|─|┬|─|─|┬|─|┴|─|┬|─|─|┬|─|─|┐||||
- ||▼|||▼|||▼||||▼|||▼|||▼||||
- ||High Swordsman|||High Mage|||High Thief||||High Acholyte|||High Merchant|||High Archer||||
-┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||||
-▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||||
-Lord Knight||Paladin|High Wizard||Professor|Stalker||Assassin Cross||High Priest||Champion|Whitesmith||Creator|Sniper||Clown / Gypsy||||
- ||||||||||||||||||||||
- ||||||||||||||||||||||
- ||||||||||Baby||||||||||||
- |||||||     |  | |│     | |  |          |||||||||
- ||┌|──|──|─┬─|──|──|─┬─|─|┼|─|┬|─|─|┬|─|─|┬|─|─|─|┐
- ||▼|||▼|||▼||▼||▼|||▼|||▼||||▼|
- ||Baby Swordman|||Baby Mage|||Baby Thief||Super Baby||Baby Acholyte|||Baby Merchant|||Baby Archer||||
-┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||┌|──┴──|┐
-▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||▼||▼
-Baby Knight||Baby Crusader|Baby Wizard||Baby Sage|Baby Rogue||Baby Assassin||Baby Priest||Baby Monk|Baby Blacksmith||Baby Alchemist|Baby Hunter||Baby Bard / Dancer||||
+<table>
+<tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Ninja</td><td>◄─</td><td>─</td><td>Novice</td><td>─</td><td>─►</td><td>Gunslinger</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+	
+<tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>│</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+	
+<tr><td> </td><td>┌</td><td>──</td><td>──</td><td>─┬─</td><td>──</td><td>──</td><td>─┬─</td><td>─</td><td>┼</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>─</td><td>┐</td><td> </td></tr>
+	
+<tr><td> </td><td>▼</td><td> </td><td> </td><td>▼</td><td> </td><td> </td><td>▼</td><td> </td><td>▼</td><td> </td><td>▼</td><td> </td><td> </td><td>▼</td><td> </td><td> </td><td>▼</td><td> </td><td> </td><td> </td><td>▼</td><td></td></tr>
+	
+<tr><td></td><td>Swordman</td><td></td><td></td><td>Mage</td><td></td><td></td><td>Thief</td><td></td><td>Super Novice</td><td></td><td>Acholyte</td><td></td><td></td><td>Merchant</td><td></td><td></td><td>Archer</td><td></td><td></td><td></td><td>Taekwon Kid</td><td></td></tr>
+	
+<tr><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td>┌</td><td>──┴──</td><td>┐</td></tr>
+	
+<tr><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td></tr>
+	
+<tr><td>Knight</td><td></td><td>Crusader</td><td>Wizard</td><td></td><td>Sage</td><td>Rogue</td><td></td><td>Assassin</td><td></td><td>Priest</td><td></td><td>Monk</td><td>Blacksmith</td><td></td><td>Alchemist</td><td>Hunter</td><td></td><td>Bard / Dancer</td><td></td><td>Soul Linker</td><td></td><td>Star Gladiator</td></tr>
+	
+<tr><td>│</td><td></td><td>│</td><td>│</td><td></td><td>│</td><td>│</td><td></td><td>│</td><td></td><td>│</td><td></td><td>│</td><td>│</td><td></td><td>│</td><td>│</td><td></td><td>│</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>└</td><td>─</td><td>┴</td><td>┴</td><td>─</td><td>┴</td><td>┴</td><td>─</td><td>┴</td><td>┬</td><td>┴</td><td>─</td><td>┴</td><td>┴</td><td>─</td><td>┴</td><td>┴</td><td>─</td><td>┘</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>▼</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>High Novice</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>│</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>┌</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>┴</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┐</td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>High Swordsman</td><td></td><td></td><td>High Mage</td><td></td><td></td><td>High Thief</td><td></td><td></td><td></td><td>High Acholyte</td><td></td><td></td><td>High Merchant</td><td></td><td></td><td>High Archer</td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>Lord Knight</td><td></td><td>Paladin</td><td>High Wizard</td><td></td><td>Professor</td><td>Stalker</td><td></td><td>Assassin Cross</td><td></td><td>High Priest</td><td></td><td>Champion</td><td>Whitesmith</td><td></td><td>Creator</td><td>Sniper</td><td></td><td>Clown / Gypsy</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Baby</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td>     </td><td>  </td><td> </td><td>│     </td><td> </td><td>  </td><td>          </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>┌</td><td>──</td><td>──</td><td>─┬─</td><td>──</td><td>──</td><td>─┬─</td><td>─</td><td>┼</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┬</td><td>─</td><td>─</td><td>┐</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td>▼</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td></td><td>Baby Swordman</td><td></td><td></td><td>Baby Mage</td><td></td><td></td><td>Baby Thief</td><td></td><td>Super Baby</td><td></td><td>Baby Acholyte</td><td></td><td></td><td>Baby Merchant</td><td></td><td></td><td>Baby Archer</td><td></td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>──┴──</td><td>┐</td><td>┌</td><td>─┴─</td><td>┐</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td>▼</td><td></td><td>▼</td><td></td><td></td><td></td><td></td></tr>
+	
+<tr><td>Baby Knight</td><td></td><td>Baby Crusader</td><td>Baby Wizard</td><td></td><td>Baby Sage</td><td>Baby Rogue</td><td></td><td>Baby Assassin</td><td></td><td>Baby Priest</td><td></td><td>Baby Monk</td><td>Baby Blacksmith</td><td></td><td>Baby Alchemist</td><td>Baby Hunter</td><td></td><td>Baby Bard / Dancer</td><td></td><td></td><td></td><td></td></tr>
+</table>

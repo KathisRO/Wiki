@@ -15,8 +15,20 @@ In the heart of [[Rune Midgard]] Likes the [[#Prontera Church]] and the [[#King'
 
 ## Places of Interest
 
+### Job Agency
+
+### Nenkaras Inn
+#### West
+#### East
+
+### Inner Pub
+### Outer Pub
+### Town Office
+### Trading Post
+
 ### Prontera Church
 
+### Memorial Square
 
 ### King's Chivlary
 

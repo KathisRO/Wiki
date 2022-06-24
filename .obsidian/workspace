@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
+            "file": "Mechanics/Classes.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
+            "file": "Mechanics/Classes.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax.md",
+                "file": "Mechanics/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,16 +112,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4cef5ccc7860927",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Syntax.md",
     "Mechanics/Classes.md",
+    "index.md",
+    "Syntax.md",
     "Npcs/Job Changer.md",
     "Customs.md",
     "Prontera.md",
     "Endless Tower.md",
     "Items/Red Potion.md",
-    "index.md",
     "Guilds.md",
     "sidebar.md"
   ]

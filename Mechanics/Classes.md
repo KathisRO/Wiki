@@ -22,7 +22,7 @@ Once the character has advanced to Job Level 10, they can choose one of the foll
 + [[Mechanics/Archer|Archer]] 
 + [[Mechanics/Mage|Mage]]
 + [[Mechanics/Merchant|Merchant]]
-+ [[Mechanics/Theif|Theif]] 
++ [[Mechanics/Thief|Thief]] 
 + [[Mechanics/Swordsman|Swordsman]]
 
 #### Extended
@@ -73,7 +73,7 @@ Like before you start as a novice, but this time you are a [[Mechanics/High Novi
 + [[Mechanics/High Archer|High Archer]] 
 + [[Mechanics/High Mage|High Mage]]
 + [[Mechanics/High Merchant|High Merchant]]
-+ [[Mechanics/High Theif|High Theif]] 
++ [[Mechanics/High Thief|High Thief]] 
 + [[Mechanics/High Swordsman|High Swordsman]]
 
 ### Trans Second Classes
@@ -103,7 +103,7 @@ These are the classes the character will become when they get adopted.
 + [[Mechanics/Baby Archer|Baby Archer]]
 + [[Mechanics/Baby Mage|Baby Mage]]
 + [[Mechanics/Baby Merchant|Baby Merchant]]
-+ [[Mechanics/Baby Theif|Baby Theif]]
++ [[Mechanics/Baby Thief|Baby Thief]]
 + [[Mechanics/Baby Swordman|Baby Swordman]]
 
 ### Second Adopted Classes
@@ -132,5 +132,34 @@ To change your class, each class has a special quest or condition that can be me
 
 ## Table
 
--|-|-|-
--|-|-|-
+ |||||||||||||||||||||| 
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+ |||||||Ninja|◄─|─|Novice|─|─►|Gunslinger|||||||||
+ |||||||     |  | |│     | |  |          |||||||||
+ ||┌|──|──|─┬─|──|──|─┬─|─|┼|─|┬|─|─|┬|─|─|┬|─|─|─|┐
+ ||▼|||▼|||▼||▼||▼|||▼|||▼||||▼|
+ ||Swordman|||Mage|||Thief||Super Novice||Acholyte|||Merchant|||Archer||||Taekwon Kid|
+┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||┌|──┴──|┐
+▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||▼||▼
+Knight||Crusader|Wizard||Sage|Rogue||Assassin||Priest||Monk|Blacksmith||Alchemist|Hunter||Bard / Dancer||Soul Linker||Star Gladiator
+│||│|│||│|│||│||│||│|│||│|│||│||||
+└|─|┴|┴|─|┴|┴|─|┴|┬|┴|─|┴|┴|─|┴|┴|─|┘||||
+ ||||||||||▼||||||||||||
+ ||||||||||High Novice||||||||||||
+ ||||||||||│|||||||||||
+ ||┌|─|─|┬|─|─|┬|─|┴|─|┬|─|─|┬|─|─|┐||||
+ ||▼|||▼|||▼||||▼|||▼|||▼||||
+ ||High Swordsman|||High Mage|||High Thief||||High Acholyte|||High Merchant|||High Archer||||
+┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||||
+▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||||
+Lord Knight||Paladin|High Wizard||Professor|Stalker||Assassin Cross||High Priest||Champion|Whitesmith||Creator|Sniper||Clown / Gypsy||||
+ ||||||||||||||||||||||
+ ||||||||||||||||||||||
+ ||||||||||Baby||||||||||||
+ |||||||     |  | |│     | |  |          |||||||||
+ ||┌|──|──|─┬─|──|──|─┬─|─|┼|─|┬|─|─|┬|─|─|┬|─|─|─|┐
+ ||▼|||▼|||▼||▼||▼|||▼|||▼||||▼|
+ ||Baby Swordman|||Baby Mage|||Baby Thief||Super Baby||Baby Acholyte|||Baby Merchant|||Baby Archer||||
+┌|──┴──|┐|┌|─┴─|┐|┌|─┴─|┐||┌|──┴──|┐|┌|──┴──|┐|┌|─┴─|┐||┌|──┴──|┐
+▼||▼|▼||▼|▼||▼||▼||▼|▼||▼|▼||▼||▼||▼
+Baby Knight||Baby Crusader|Baby Wizard||Baby Sage|Baby Rogue||Baby Assassin||Baby Priest||Baby Monk|Baby Blacksmith||Baby Alchemist|Baby Hunter||Baby Bard / Dancer||||

@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 49.267100977198695,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Prontera.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "3943bb7605abf415"
       },
@@ -83,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Prontera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +111,14 @@
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
     "Locations/Prontera.md",
+    "Mechanics/Classes.md",
+    "Endless Tower.md",
+    "Images/prontera.png",
+    "Npcs/Reset NPC.md",
+    "Items/{501}.md",
     "Customs.md",
     "Npcs/Platinum Skill NPC.md",
     "Npcs/Rental NPC.md",
-    "Images/prontera.png",
-    "Npcs/Doctor.md",
-    "Npcs/Job Master.md",
-    "Locations/Payon.md",
-    "Locations/Comodo.md",
-    "Images/npc/4_F_MAID.gif"
+    "Npcs/Doctor.md"
   ]
 }

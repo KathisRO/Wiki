@@ -22,6 +22,7 @@ This is a sublocation of Prontera,.
 + [[Npcs/Rental NPC|Rental NPC]]
 + [[Npcs/Job Master|Job Master]]
 + [[Npcs/Platinum Skill NPC|Platinum Skill NPC]]
++ [[Npcs/Reset NPC|Reset NPC]]
 
 ### Nenkaras Inn
 #### West

@@ -1,4 +1,4 @@
-**Endless Tower** (ET) is a dungeon instance situated in the middle of the ocean. Once surrounded by a thick fog, the Misty Island is now accessible to adventurers from the docks of [[Alberta]]. The dungeon is made up of 101 floors of increasingly difficult monsters, including [[MVP]]
+**Endless Tower** (ET) is a dungeon instance situated in the middle of the ocean. Once surrounded by a thick fog, the Misty Island is now accessible to adventurers from the docks of [[Locations/Alberta|Alberta]]. The dungeon is made up of 101 floors of increasingly difficult monsters, including [[MVP]]
 
 *   The instance has a 4 hour time limit and will automatically close if all party members leave the tower for more than 5 minutes.
 *    Each character may only attempt an Endless Tower instance once every 6 days.

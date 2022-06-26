@@ -20,5 +20,5 @@ After completing the service, the player will be have all their gear unequiped, 
 
 ## Found at:
 
-[[Locations/Prontera#Job Agency|Prontera]] /navi prt_in 41/114
+[[Locations/Prontera#Job Agency|Prontera's Job Agency]] /navi prt_in 41/114
 [[Locations/Alberta|Alberta]] /navi alberta 103/231

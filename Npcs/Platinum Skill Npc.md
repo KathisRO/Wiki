@@ -8,3 +8,5 @@ Found at:
 This is a service npc that allows characters to skip their platinum skill quest. However these skills are temporary. If the character does a skill reset, the platinum skills will be removed. 
 
 This npc costs 1,000 zeny, and doesn't check to see if the character has the skills already. 
+
+See the [[Mecahnics/Classes|Classes]] to know what the skills are. 

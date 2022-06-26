@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Job Changer.md",
+            "file": "Npcs/Job Master.md",
             "mode": "source"
           }
         },
@@ -21,11 +21,8 @@
         "type": "leaf",
         "dimension": 53.98601398601398,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Npcs/Job Changer.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "3943bb7605abf415"
       }
@@ -83,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Job Changer.md",
+                "file": "Npcs/Job Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4cef5ccc7860927",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Npcs/Job Changer.md",
-    "Prontera.md",
+    "Npcs/Job Master.md",
+    "Locations/Prontera.md",
     "Images/npc/2_F_MAGICMASTER.gif",
     "Mechanics/Classes.md",
     "index.md",

@@ -1,5 +1,5 @@
 ~start
-	[[Npcs/Job Changer]]
+	[[Job Master]]
 end~
 
 

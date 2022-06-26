@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Prontera.md",
+            "file": "Locations/Comodo.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Prontera.md",
+            "file": "Locations/Comodo.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Prontera.md",
+                "file": "Locations/Comodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Locations/Comodo.md",
+    "Locations/Payon.md",
     "Locations/Prontera.md",
     "Npcs/Signature Rhin.md",
     "Npcs/Rental NPC.md",
@@ -121,8 +123,6 @@
     "Npcs/Doctor.md",
     "Npcs/Job Master.md",
     "Npcs/Platinum Skill NPC.md",
-    "Mechanics/Classes.md",
-    "Endless Tower.md",
-    "Images/prontera.png"
+    "Mechanics/Classes.md"
   ]
 }

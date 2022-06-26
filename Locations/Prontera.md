@@ -39,6 +39,10 @@ Town Square is found at the center of Prontera, it's a place where most people g
 
 
 ### Trading Post
+The trading post is a building that houses services such as refinement, GM services, and other services that require auro. 
+
+**Noteable NPCs**
++ [[Npcs/Signature Rhin|Signature Rhine]]
 
 ### Prontera Church
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Rental Npc.md",
+            "file": "Locations/Prontera.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Rental Npc.md",
+            "file": "Locations/Prontera.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Rental Npc.md",
+                "file": "Locations/Prontera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Npcs/Rental Npc.md",
+    "Locations/Prontera.md",
+    "Customs.md",
+    "Npcs/Platinum Skill NPC.md",
+    "Npcs/Rental NPC.md",
+    "Images/prontera.png",
     "Npcs/Doctor.md",
     "Npcs/Job Master.md",
-    "Npcs/Platinum Skill Npc.md",
-    "Images/prontera.png",
     "Locations/Payon.md",
     "Locations/Comodo.md",
-    "Locations/Prontera.md",
-    "Images/npc/4_F_MAID.gif",
-    "Images/npc/2_F_MAGICMASTER.gif"
+    "Images/npc/4_F_MAID.gif"
   ]
 }

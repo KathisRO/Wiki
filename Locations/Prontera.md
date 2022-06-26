@@ -16,6 +16,12 @@ In the heart of [[Rune Midgard]] Likes the [[#Prontera Church]] and the [[#King'
 ## Places of Interest
 
 ### Job Agency
+This is a sublocation of Prontera,.
+
+**Noteable NPCs**
++ [[Npcs/Rental NPC|Rental NPC]]
++ [[Npcs/Job Master|Job Master]]
++ [[Npcs/Platinum Skill NPC|Platinum Skill NPC]]
 
 ### Nenkaras Inn
 #### West
@@ -24,6 +30,13 @@ In the heart of [[Rune Midgard]] Likes the [[#Prontera Church]] and the [[#King'
 ### Inner Pub
 ### Outer Pub
 ### Town Office
+### Town Square
+Town Square is found at the center of Prontera, it's a place where most people gather. 
+
+**Noteable NPCs**
++ [[Npcs/Doctor|Doctor]]
+
+
 ### Trading Post
 
 ### Prontera Church

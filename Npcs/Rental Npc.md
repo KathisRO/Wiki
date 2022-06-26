@@ -12,5 +12,5 @@ The character must have the skills to support the rental, and the class.
 
 ## Found at:
 
-[[Loctprt_in,33,114
-alberta,109,231
+[[Locations/Prontera#Job Agency|Prontera]] /navi prt_in 33/114
+[[Locations/Alberta|Alberta]] /navi alberta 109/231

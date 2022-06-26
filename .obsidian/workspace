@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Classes.md",
+            "file": "Npcs/Job Changer.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Classes.md",
+            "file": "Npcs/Job Changer.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Classes.md",
+                "file": "Npcs/Job Changer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Npcs/Job Changer.md",
+    "Prontera.md",
+    "Images/npc/2_F_MAGICMASTER.gif",
     "Mechanics/Classes.md",
     "index.md",
     "Syntax.md",
-    "Npcs/Job Changer.md",
     "Customs.md",
-    "Prontera.md",
     "Endless Tower.md",
     "Items/Red Potion.md",
-    "Guilds.md",
-    "sidebar.md"
+    "Guilds.md"
   ]
 }

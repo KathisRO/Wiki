@@ -6,11 +6,11 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 46.01398601398601,
+        "dimension": 49.267100977198695,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Platinum Skill Npc.md",
+            "file": "Npcs/Doctor.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "c4cef5ccc7860927",
         "type": "leaf",
-        "dimension": 53.98601398601398,
+        "dimension": 50.732899022801305,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Platinum Skill Npc.md",
+            "file": "Npcs/Doctor.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Platinum Skill Npc.md",
+                "file": "Npcs/Doctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,9 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Npcs/Doctor.md",
     "Npcs/Platinum Skill Npc.md",
     "Npcs/Job Master.md",
-    "Npcs/Doctor.md",
     "Images/prontera.png",
     "Locations/Payon.md",
     "Locations/Comodo.md",

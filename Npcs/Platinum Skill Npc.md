@@ -1,4 +1,4 @@
-![[Images/npc/4_F_MAID.gif]]
+![[npc/4_F_MAID.gif]]
 
 # Details
 

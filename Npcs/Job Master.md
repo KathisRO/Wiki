@@ -1,4 +1,4 @@
-![[Images/npc/2_F_MAGICMASTER.gif]]
+![[npc/2_F_MAGICMASTER.gif]]
 
 # Details
 This npc is a service npc, it will allow a character to change their job without having to go through the class quest for the desired job. 

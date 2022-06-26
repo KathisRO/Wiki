@@ -5,25 +5,15 @@ The Doctor is service npc that is able to recover the characters HP and SP. If S
 
 ## Found at: 
 [[Locations/Prontera|Prontera]] /navi prontera 146/92
-
 [[Locations/Morroc|Morroc]] /navi morroc 164/97
-
 [[Locations/Ayothaya|Ayothaya]] /navi ayothaya 213/265
-
 [[Locations/Geffen|Geffen]] /navi geffen 123/67
-
 [[Locations/Umbala|Umbala]] /navi umbala 95/160
-
 [[Locations/Payon|Payon]] /navi payon 164/219
-
 [[Locations/Alberta|Alberta]] /navi alberta 110/132
-
 [[Locations/Aldebaran|Aldebaran]] /navi aldebaran 146/119
-
 [[Locations/Izlude|Izlude]] /navi izlude 134/93
-
 [[Locations/Lutie|Lutie]] /navi lutie 146/55
-
 [[Locations/Comodo|Comodo]] /navi comodo 182/153
 [[Locations/Amatsu|Amatsu]] /navi amatsu 202/256
 [[Locations/Gonryun|Gonryun]] /navi gonryun 156/125

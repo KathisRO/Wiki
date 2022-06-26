@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Job Master.md",
+            "file": "Npcs/Doctor.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Job Master.md",
+            "file": "Npcs/Doctor.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Job Master.md",
+                "file": "Npcs/Doctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Npcs/Job Master.md",
     "Npcs/Doctor.md",
+    "Npcs/Job Master.md",
     "Npcs/Platinum Skill Npc.md",
     "Images/prontera.png",
     "Locations/Payon.md",

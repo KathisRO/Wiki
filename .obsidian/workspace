@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Job Master.md",
+            "file": "Npcs/Platinum Skill Npc.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,11 @@
         "type": "leaf",
         "dimension": 53.98601398601398,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Npcs/Platinum Skill Npc.md",
+            "mode": "preview"
+          }
         },
         "group": "3943bb7605abf415"
       }
@@ -80,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Job Master.md",
+                "file": "Npcs/Platinum Skill Npc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Npcs/Platinum Skill Npc.md",
+    "Images/npc/4_F_MAID.gif",
+    "Images/npc/2_F_MAGICMASTER.gif",
     "Npcs/Job Master.md",
     "Locations/Prontera.md",
-    "Images/npc/2_F_MAGICMASTER.gif",
     "Mechanics/Classes.md",
     "index.md",
     "Syntax.md",
     "Customs.md",
-    "Endless Tower.md",
-    "Items/Red Potion.md",
-    "Guilds.md"
+    "Endless Tower.md"
   ]
 }

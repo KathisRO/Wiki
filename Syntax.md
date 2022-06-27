@@ -43,6 +43,7 @@ If you want to link further on a page put a # in the tag like [[#index]]  Howeve
 
 Note: If a page doesn't exist in github, or the site cannot find the page, it will display the link as plain text. Thus making it hard for players to find dead links. Obsidian will still see the dead links however.
 
+
 # Headers
 Headers are done like so.
 ```
@@ -60,6 +61,8 @@ Putting it like
 #header 
 ```
 Will actully make a markup tag.  This is still treated as a Header 1 in the wiki, but obsidian will not see it as such. 
+
+Though it is possible to put links in the header, don't.. the parcer won't know what to do with it. 
 
 # Emphasis
 *Italic text*, **Bold Text**, ***Italic bold text***, <u>Underline</u>, ~~stricked~~

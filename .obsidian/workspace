@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Npcs/Ras Al Ghur.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Npcs/Ras Al Ghur.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Npcs/Ras Al Ghur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "index.md",
     "Npcs/Ras Al Ghur.md",
-    "Npcs/Doctor.md",
     "Syntax.md",
+    "sidebar.md",
+    "index.md",
+    "Npcs/Doctor.md",
     "Npcs/Reset NPC.md",
     "Npcs/Rental NPC.md",
     "Locations/Prontera.md",
     "Mechanics/Classes.md",
-    "Npcs/Signature Rhin.md",
-    "Npcs/Platinum Skill NPC.md"
+    "Npcs/Signature Rhin.md"
   ]
 }

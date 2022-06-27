@@ -11,7 +11,7 @@ this should be changed
 
 
 [external link test](http://www.google.com)
-[[Job Master]]
+[[Npcs/Job Master|Job Master]]
 - Item 1
 - Item 2
   - Item 2a

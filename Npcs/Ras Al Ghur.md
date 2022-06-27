@@ -12,7 +12,7 @@ This is the list of quests that it grants access to as if they were completed.
  [[Quests/Rune-Midgarts Kingdom|Rune-Midgarts Kingdom]]| 50m |80 | 
 
 
-+ 
+
 
 
 

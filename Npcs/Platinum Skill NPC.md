@@ -9,5 +9,5 @@ This npc costs 1,000 zeny, and doesn't check to see if the character has the ski
 See the [[Mecahnics/Classes|Classes]] to know what the skills are. 
 
 ## Found at:
-[[Locations/Alberta|Alberta]] /navi Alberta 105/231
-[[Locations/Prontera#Job Agency|Prontera's Job agency]] /navi prt_in  38/114
++ [[Locations/Alberta|Alberta]] /navi Alberta 105/231
++ [[Locations/Prontera#Job Agency|Prontera's Job agency]] /navi prt_in  38/114

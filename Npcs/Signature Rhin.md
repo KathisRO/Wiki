@@ -14,4 +14,4 @@ The following conditions must be met for the item to be selectable
 + The item cannot be a rental item.
 
 ## Found at:
-[[Locations/Prontera#Trading Post|Prontera's Trading Post]] /navi prt_in 31/72
++ [[Locations/Prontera#Trading Post|Prontera's Trading Post]] /navi prt_in 31/72

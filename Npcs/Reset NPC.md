@@ -12,5 +12,5 @@ The player cannot be equipped with any of the following items
 + [[Items/(2844)|(2844)]]
 After completing the service, the player will be have all their gear unequiped, and will need to relog for the skill reset to take effect. 
 ## Found at:
-[[Locations/Prontera#Job Agency|Prontera's Job Agency]] /navi prt_in 41/114
-[[Locations/Alberta|Alberta]] /navi alberta 103/231
++ [[Locations/Prontera#Job Agency|Prontera's Job Agency]] /navi prt_in 41/114
++ [[Locations/Alberta|Alberta]] /navi alberta 103/231

@@ -17,5 +17,5 @@ See [[Mechanics/Classes|Classes]] for a list of all available classes.
 
 
 ## Found at : 
-[[Locations/Alberta|Alberta]]  /navi alberta 107/231
-[[Locations/Prontera#Job Agency|Prontera's Job agency]] /navi prt_in  45/110
++ [[Locations/Alberta|Alberta]]  /navi alberta 107/231
++ [[Locations/Prontera#Job Agency|Prontera's Job agency]] /navi prt_in  45/110

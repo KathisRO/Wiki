@@ -9,6 +9,9 @@ this should be changed
 
 [[#group 3 heading 3 |this displays a different thing for heading 3]]
 
+## [[Locations/Prontera|Prontera]]
+Test with link in the header.
+
 [external link test](http://www.google.com)
 [[Job Master]]
 - Item 1

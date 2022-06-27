@@ -191,4 +191,6 @@ Though html is amazing and powerful, Obsidian will not show normal markup langua
 # Planned features to come. 
 by putting (I/#) this will be searched in the wiki to replace with some item data, such as it's small icon, and a link to it's page, it will replace the text with it's SQL name. 
 
+(M/#) will also be the same where it will pull from the monster data from the sql. 
+
 end~

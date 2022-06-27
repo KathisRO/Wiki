@@ -2,6 +2,7 @@
 
 # Details
 The Doctor is service npc that is able to recover the characters HP and SP. If SP is to be recovered, he charages 1000 zeny, however he recovers HP for free.
+
 ## Found at: 
 + [[Locations/Prontera|Prontera]] /navi prontera 146/92
 + [[Locations/Morroc|Morroc]] /navi morroc 164/97

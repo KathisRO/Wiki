@@ -11,14 +11,17 @@ tags:
 
 **The Capital of Rune Midgard**
 In the heart of [[Rune Midgard]] Likes the [[#Prontera Church]] and the [[#King's Chivalry]]. Through the orders of [[King Tristan III]], new [[Swordman|Swordmen]] are being trained to become members of the Chivalry. There is also a free market, as ordered by the King, with vendors of all different backgrounds.  
+
 ## Places of Interest
 ### Job Agency
-This is a sublocation of Prontera,.
+This is a sublocation of Prontera
+
 **Noteable NPCs**
 + [[Npcs/Rental NPC|Rental NPC]]
 + [[Npcs/Job Master|Job Master]]
 + [[Npcs/Platinum Skill NPC|Platinum Skill NPC]]
 + [[Npcs/Reset NPC|Reset NPC]]
+
 ### Nenkaras Inn
 #### West
 #### East
@@ -30,11 +33,14 @@ Town Square is found at the center of Prontera, it's a place where most people g
 
 **Noteable NPCs**
 + [[Npcs/Doctor|Doctor]]
+
 ### Trading Post
 The trading post is a building that houses services such as refinement, GM services, and other services that require auro. 
 
 **Noteable NPCs**
 + [[Npcs/Signature Rhin|Signature Rhine]]
+
+
 ### Prontera Church
 ### Memorial Square
 ### King's Chivlary

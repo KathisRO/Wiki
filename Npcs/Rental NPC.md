@@ -4,9 +4,9 @@
 
 This is a service npc that allows the player to rent a Cart, Falcon, or Peco.
 
-Cart: 500z
-Falcon: 2500z
-Peco: 2500z
++ Cart: 500z
++ Falcon: 2500z
++ Peco: 2500z
 
 The character must have the skills to support the rental, and the class. 
 

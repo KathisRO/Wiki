@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Doctor.md",
+            "file": "Locations/Prontera.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Doctor.md",
+            "file": "Locations/Prontera.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Doctor.md",
+                "file": "Locations/Prontera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Locations/Prontera.md",
     "Npcs/Doctor.md",
     "Mechanics/Classes.md",
     "Npcs/Signature Rhin.md",
@@ -121,7 +122,6 @@
     "Npcs/Rental NPC.md",
     "Npcs/Platinum Skill NPC.md",
     "Npcs/Job Master.md",
-    "Locations/Prontera.md",
     "Items/(501).md",
     "Locations/Comodo.md"
   ]

@@ -41,10 +41,10 @@ These classes can become transended.
 
 + [[Mechanics/Alchemist|Alchemist]]
 + [[Mechanics/Assassin|Assassin]]
-+ [[Mechanics/Bard|Bard]] If Male
++ [[Mechanics/Bard|Bard]] (If Male)
 + [[Mechanics/Blacksmith|Blacksmith]]
 + [[Mechanics/Crusader|Crusader]]
-+ [[Mechanics/Dancer|Dancer]] If Female
++ [[Mechanics/Dancer|Dancer]] (If Female)
 + [[Mechanics/Hunter|Hunter]]
 + [[Mechanics/Knight|Knight]]
 + [[Mechanics/Monk|Monk]]
@@ -59,7 +59,7 @@ These classes cannot become transended
 
 + [[Mechanics/Soul Linker|Soul Linker]]
 + [[Mechanics/Star Gladiator|Star Gladiator]]
-+ [[Mechanics/Super Novice|Super Novice]] If still Novice by base level 45.
++ [[Mechanics/Super Novice|Super Novice]] (If still Novice by base level 45.)
 
 ## Transended Classes
 These Classes are available after you rebirth. Gear will refer to these classes as Trans for short. Pervious classes no longer are applicable for gear. 
@@ -80,11 +80,11 @@ Like before you start as a novice, but this time you are a [[Mechanics/High Novi
 + [[Mechanics/Assassin Cross|Assassin Cross]]
 + [[Mechanics/Creator|Creator]]
 + [[Mechanics/Champion|Champion]]
-+ [[Mechanics/Gypsy|Gypsy]]
++ [[Mechanics/Gypsy|Gypsy]] (If Female)
 + [[Mechanics/High Priest|High Priest]]
 + [[Mechanics/High Wizard|High Wizard]] 
 + [[Mechanics/Lord Knight|Lord Knight]]
-+ [[Mechanics/Minstrel|Minstrel]] If male
++ [[Mechanics/Minstrel|Minstrel]] (If male)
 + [[Mechanics/Paladin|Paladin]]
 + [[Mechanics/Professor|Professor]] 
 + [[Mechanics/Sniper|Sniper]]
@@ -111,10 +111,10 @@ The Baby class can advance to the following classes.
 
 + [[Mechanics/Baby Alchemist|Baby Alchemist]]
 + [[Mechanics/Baby Assassin|Baby Assassin]]
-+ [[Mechanics/Baby Bard|Baby Bard]] if Male
++ [[Mechanics/Baby Bard|Baby Bard]] (if Male)
 + [[Mechanics/Baby Blacksmith|Baby Blacksmith]]
 + [[Mechanics/Baby Crusader|Baby Crusader]]
-+ [[Mechanics/Baby Dancer|Baby Dancer]] If Female
++ [[Mechanics/Baby Dancer|Baby Dancer]] (If Female)
 + [[Mechanics/Baby Hunter|Baby Hunter]]
 + [[Mechanics/Baby Knight|Baby Knight]]
 + [[Mechanics/Baby Monk|Baby Monk]]

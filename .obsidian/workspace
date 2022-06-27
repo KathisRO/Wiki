@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Signature Rhin.md",
+            "file": "Mechanics/Classes.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Signature Rhin.md",
+            "file": "Mechanics/Classes.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Signature Rhin.md",
+                "file": "Mechanics/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Mechanics/Classes.md",
     "Npcs/Signature Rhin.md",
     "Npcs/Reset NPC.md",
     "Npcs/Rental NPC.md",
@@ -122,7 +123,6 @@
     "Npcs/Doctor.md",
     "Locations/Prontera.md",
     "Items/(501).md",
-    "Locations/Comodo.md",
-    "Locations/Payon.md"
+    "Locations/Comodo.md"
   ]
 }

@@ -21,11 +21,11 @@ This is the list of quests that it grants access to as if they were completed.
  [[Quests/Kiel Hyre\|Kiel Hyre]] | 35m | 70 | Gives the item [[Items/(7509)\|(I/7509)]]
  [[Quests/Ayothaya Dungeon Entrance\|Ayothaya Dungeon Entrance]] | 35m | 0 | Gives the item [[Items/(7287)\|(I/7287)]]
  
- 
- 
-
-                        
-                      
+  These quests are unlocked view the Character Tier.  
+  
+  **Future Planned**
+  
+  In the future there will be an npc that does a true reset. These quests will be reseted when that npc is used.                       
 
 
 ## Found at:

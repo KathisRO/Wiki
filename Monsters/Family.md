@@ -2,4 +2,5 @@ Monsters come in all shapes and sizes, however when you look at them closer they
 
 # Families
 + [[Monsters/Pungus Family|Pungus]]
-+ [[Monsters/Dark Magi|Dark Magi]]
++ [[Monsters/Dark Magi|Dark Magis]]
++ [[Monsters/Goblin Family|Goblins]]

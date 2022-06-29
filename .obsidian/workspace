@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monsters/Pungus Family.md",
+            "file": "Monsters/Goblin Family.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monsters/Pungus Family.md",
-            "mode": "preview"
+            "file": "Monsters/Goblin Family.md",
+            "mode": "source"
           }
         },
         "group": "3943bb7605abf415"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monsters/Pungus Family.md",
+                "file": "Monsters/Goblin Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Monsters/Goblin Family.md",
     "Monsters/Pungus Family.md",
     "Monsters/Family.md",
     "Syntax.md",
@@ -122,7 +123,6 @@
     "Locations/Prontera.md",
     "Locations/Comodo.md",
     "Locations/Payon.md",
-    "Npcs/Ras Al Ghur.md",
-    "Npcs/Platinum Skill NPC.md"
+    "Npcs/Ras Al Ghur.md"
   ]
 }

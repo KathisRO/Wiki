@@ -32,6 +32,7 @@ Town Square is found at the center of Prontera, it's a place where most people g
 
 **Noteable NPCs**
 + [[Npcs/Doctor|Doctor]]
++ [[Npcs/Announcement Board|Announcement Board]]
 
 ### Trading Post
 The trading post is a building that houses services such as refinement, GM services, and other services that require auro. 

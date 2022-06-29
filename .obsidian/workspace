@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monster/Pungus Family.md",
+            "file": "Monsters/Pungus Family.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monster/Pungus Family.md",
-            "mode": "source"
+            "file": "Monsters/Pungus Family.md",
+            "mode": "preview"
           }
         },
         "group": "3943bb7605abf415"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monster/Pungus Family.md",
+                "file": "Monsters/Pungus Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Monster/Pungus Family.md",
+    "Monsters/Pungus Family.md",
     "Monsters/Family.md",
     "Syntax.md",
     "Npcs/Announcement Board.md",

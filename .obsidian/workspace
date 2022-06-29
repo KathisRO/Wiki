@@ -6,21 +6,24 @@
       {
         "id": "07662f9663fc195c",
         "type": "leaf",
-        "dimension": 49.267100977198695,
+        "dimension": 62.62214983713355,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Npcs/Announcement Board.md",
+            "mode": "source"
+          }
         },
         "group": "3943bb7605abf415"
       },
       {
         "id": "c4cef5ccc7860927",
         "type": "leaf",
-        "dimension": 50.732899022801305,
+        "dimension": 37.37785016286645,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Ras Al Ghur.md",
+            "file": "Npcs/Announcement Board.md",
             "mode": "preview"
           }
         },
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Npcs/Announcement Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Npcs/Announcement Board.md",
+    "Npcs/Doctor.md",
     "Npcs/Ras Al Ghur.md",
     "Npcs/Platinum Skill NPC.md",
     "index.md",
     "Syntax.md",
     "sidebar.md",
-    "Npcs/Doctor.md",
     "Npcs/Reset NPC.md",
     "Npcs/Rental NPC.md",
-    "Locations/Prontera.md",
-    "Mechanics/Classes.md"
+    "Locations/Prontera.md"
   ]
 }

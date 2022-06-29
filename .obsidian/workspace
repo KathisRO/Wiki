@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
+            "file": "Monster/Pungus Family.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syntax.md",
-            "mode": "preview"
+            "file": "Monster/Pungus Family.md",
+            "mode": "source"
           }
         },
         "group": "3943bb7605abf415"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax.md",
+                "file": "Monster/Pungus Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Monster/Pungus Family.md",
+    "Monsters/Family.md",
     "Syntax.md",
     "Npcs/Announcement Board.md",
     "Npcs/Doctor.md",
@@ -121,8 +123,6 @@
     "Locations/Comodo.md",
     "Locations/Payon.md",
     "Npcs/Ras Al Ghur.md",
-    "Npcs/Platinum Skill NPC.md",
-    "index.md",
-    "sidebar.md"
+    "Npcs/Platinum Skill NPC.md"
   ]
 }

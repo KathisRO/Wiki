@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Announcement Board.md",
+            "file": "Syntax.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Announcement Board.md",
+            "file": "Syntax.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Announcement Board.md",
+                "file": "Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Syntax.md",
     "Npcs/Announcement Board.md",
     "Npcs/Doctor.md",
     "Locations/Prontera.md",
@@ -122,7 +123,6 @@
     "Npcs/Ras Al Ghur.md",
     "Npcs/Platinum Skill NPC.md",
     "index.md",
-    "Syntax.md",
     "sidebar.md"
   ]
 }

@@ -4,9 +4,9 @@ A speical shop that sells ingredents for the use of making potions and other alc
 
 ## Sells
 + [[Items/(7134)|(I/7134)]]
-+ [[Items/(1093)|(I/1093)]]
-+ [[Items/1092|(I/1092)]]
-+ [[Items/713|(I/713)]]
++ [[Items/(1093)|(I/1093)]] *500z
++ [[Items/1092|(I/1092)]] *1000z
++ [[Items/713|(I/713)]] *500z
 + [[Items/952|(I/952)]]
 + [[Items/1017|(I/1017]]
 + [[Items/1061|(I/1061)]]

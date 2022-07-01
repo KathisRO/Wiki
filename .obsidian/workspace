@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 62.62214983713355,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Npcs/Alchemist Shop.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "3943bb7605abf415"
       },
@@ -112,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
     "Npcs/Alchemist Shop.md",
     "Npcs/Announcement Board.md",

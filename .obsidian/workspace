@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 62.62214983713355,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Npcs/Blacksmith Shop.md",
+            "mode": "source"
+          }
         },
         "group": "3943bb7605abf415"
       },
@@ -20,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Alchemist Shop.md",
-            "mode": "preview"
+            "file": "Npcs/Blacksmith Shop.md",
+            "mode": "source"
           }
         },
         "group": "3943bb7605abf415"
@@ -80,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Alchemist Shop.md",
+                "file": "Npcs/Blacksmith Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4cef5ccc7860927",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Npcs/Blacksmith Shop.md",
     "Npcs/Alchemist Shop.md",
+    "Npcs/Rental NPC.md",
+    "Images/npc/4_F_JOB_BLACKSMITH.gif",
     "Npcs/Announcement Board.md",
     "Monsters/Goblin Family.md",
     "Monsters/Pungus Family.md",
     "Monsters/Family.md",
     "Syntax.md",
-    "Npcs/Doctor.md",
-    "Locations/Prontera.md",
-    "Locations/Comodo.md",
-    "Locations/Payon.md"
+    "Npcs/Doctor.md"
   ]
 }

@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics/Novice.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "group": "3943bb7605abf415"
@@ -116,10 +116,10 @@
   "lastOpenFiles": [
     "Mechanics/Novice.md",
     "Mechanics/Classes.md",
+    "Syntax.md",
     "Images/npc/Novice.gif",
     "Npcs/Alchemist Shop.md",
     "index.md",
-    "Syntax.md",
     "Npcs/Signature Rhin.md",
     "Npcs/Announcement Board.md",
     "Npcs/Blacksmith Shop.md",

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Mechanics/Novice.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Mechanics/Novice.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Mechanics/Novice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +114,14 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "index.md",
-    "Syntax.md",
     "Mechanics/Novice.md",
     "Mechanics/Classes.md",
+    "Npcs/Alchemist Shop.md",
+    "index.md",
+    "Syntax.md",
     "Npcs/Signature Rhin.md",
     "Npcs/Announcement Board.md",
     "Npcs/Blacksmith Shop.md",
-    "Npcs/Alchemist Shop.md",
     "Npcs/Rental NPC.md",
     "Images/npc/4_F_JOB_BLACKSMITH.gif"
   ]

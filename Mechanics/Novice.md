@@ -66,8 +66,10 @@ The following Gear is only usable by Novice type Classes.
 # Class Data
 Base HP = 35 + (Base Level * 5)
 Base SP = 10 + Base Level
+Weight: 2000
 
-## Job Experience
+## JobLvl Details
+### Experience
 Lv | exp required
 ---|---------
  1| 1
@@ -80,11 +82,20 @@ Lv | exp required
  8 |205
  9 |268
  10 |340
-
+### Stat Bonus 
+Stat /Amount|+1
+ :---: |-
+ STR |8
+ Agi |5
+ Vit |6
+ Int |9
+ Dex |3
+ Luk |2
+ 
 ## Skills
 
 ### Quest Skill
-## Job Bonus
+
 ## ASPD modifications
 Weapon type | ASPD
 -|-

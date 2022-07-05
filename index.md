@@ -8,7 +8,7 @@ this should be changed
 [[Syntax#Internal Links]]
 
 [[#group 3 heading 3 |this displays a different thing for heading 3]]
-{{}}
+
 
 [external link test](http://www.google.com)
 [[Npcs/Job Master|Job Master]]

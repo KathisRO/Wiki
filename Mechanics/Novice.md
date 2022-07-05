@@ -64,8 +64,37 @@ The following Gear is only usable by Novice type Classes.
 >+ [[Item/13005|(I/13005)]]
 
 # Class Data
+Base HP = 35 + (Base Level * 5)
+Base SP = 10 + Base Level
+
+## Job Experience
+Lv | exp required
+---|---------
+ 1| 1
+ 2| 10
+ 3| 18
+ 4 | 28
+ 5| 40
+ 6| 91
+ 7 |151
+ 8 |205
+ 9 |268
+ 10 |340
+
 ## Skills
 
 ### Quest Skill
 ## Job Bonus
 ## ASPD modifications
+Weapon type | ASPD
+-|-
+Fist | 500
+Dagger | 650
+Sword | 700
+Axe | 800
+Mace | 700
+Two handed Mace| 700
+Rod | 650
+Two handed Rod | 650
+
+

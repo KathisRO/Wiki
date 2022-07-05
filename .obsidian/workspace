@@ -8,10 +8,9 @@
         "type": "leaf",
         "dimension": 62.62214983713355,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Mechanics/Novice.md",
-            "mode": "source"
+            "file": "Images/npc/Novice.gif"
           }
         },
         "group": "3943bb7605abf415"
@@ -21,10 +20,9 @@
         "type": "leaf",
         "dimension": 37.37785016286645,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Mechanics/Novice.md",
-            "mode": "source"
+            "file": "Images/npc/Novice.gif"
           }
         },
         "group": "3943bb7605abf415"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Novice.md",
+                "file": "Images/npc/Novice.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +112,7 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "Images/npc/Novice.gif",
     "Mechanics/Novice.md",
     "Mechanics/Classes.md",
     "Npcs/Alchemist Shop.md",
@@ -122,7 +121,6 @@
     "Npcs/Signature Rhin.md",
     "Npcs/Announcement Board.md",
     "Npcs/Blacksmith Shop.md",
-    "Npcs/Rental NPC.md",
-    "Images/npc/4_F_JOB_BLACKSMITH.gif"
+    "Npcs/Rental NPC.md"
   ]
 }

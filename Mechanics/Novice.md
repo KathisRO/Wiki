@@ -1,1 +1,1 @@
-{{Jobinfo|Novice|novice|10|Tutorial|1|9|2|0|0|0|0|0|0}}
+{{Jobinfo|Novice|Novice|10|Tutorial|1|9|2|0|0|0|0|0|0}}

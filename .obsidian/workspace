@@ -8,9 +8,10 @@
         "type": "leaf",
         "dimension": 62.62214983713355,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/npc/Novice.gif"
+            "file": "Mechanics/Novice.md",
+            "mode": "source"
           }
         },
         "group": "3943bb7605abf415"
@@ -20,9 +21,10 @@
         "type": "leaf",
         "dimension": 37.37785016286645,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/npc/Novice.gif"
+            "file": "Mechanics/Novice.md",
+            "mode": "source"
           }
         },
         "group": "3943bb7605abf415"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/npc/Novice.gif",
+                "file": "Mechanics/Novice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +114,9 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Images/npc/Novice.gif",
     "Mechanics/Novice.md",
     "Mechanics/Classes.md",
+    "Images/npc/Novice.gif",
     "Npcs/Alchemist Shop.md",
     "index.md",
     "Syntax.md",

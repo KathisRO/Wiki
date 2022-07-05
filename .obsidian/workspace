@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Signature Rhin.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Signature Rhin.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Signature Rhin.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
+    "index.md",
+    "Syntax.md",
+    "Mechanics/Novice.md",
+    "Mechanics/Classes.md",
     "Npcs/Signature Rhin.md",
     "Npcs/Announcement Board.md",
     "Npcs/Blacksmith Shop.md",
     "Npcs/Alchemist Shop.md",
     "Npcs/Rental NPC.md",
-    "Images/npc/4_F_JOB_BLACKSMITH.gif",
-    "Monsters/Goblin Family.md",
-    "Monsters/Pungus Family.md",
-    "Monsters/Family.md",
-    "Syntax.md"
+    "Images/npc/4_F_JOB_BLACKSMITH.gif"
   ]
 }

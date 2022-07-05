@@ -190,10 +190,16 @@ Further you can also use html if you desire. If you don't include the border=1 h
 
 Though html is amazing and powerful, Obsidian will not show normal markup languages renders while encased in html. The Site however can still function properly. Because it's looking for patterns in the string that was sent via github. So do remember this.
 
+# Special Functions
+To inidicate a function you need to 
+
 
 # Planned features to come. 
 by putting (I/#) this will be searched in the wiki to replace with some item data, such as it's small icon, and a link to it's page, it will replace the text with it's SQL name. 
 
 (M/#) will also be the same where it will pull from the monster data from the sql. 
+
+
+
 
 end~

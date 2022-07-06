@@ -83,6 +83,8 @@ Lv | exp required
  9 |268
  10 |340
 ### Stat Bonus 
+Job Level stat advancement bonus.
+
 Stat /Amount|+1
  :---: |-
  STR |8

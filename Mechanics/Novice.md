@@ -64,8 +64,8 @@ The following Gear is only usable by Novice type Classes.
 >+ [[Item/13005|(I/13005)]]
 
 # Class Data
-Base HP = 35 + (Base Level * 5) \n
-Base SP = 10 + Base Level \n
+Base HP = 35 + (Base Level * 5) <br>
+Base SP = 10 + Base Level <br>
 Weight: 2000
 
 ## JobLvl Details

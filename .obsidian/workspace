@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Novice Shop.md",
+            "file": "Mechanics/Novice.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Novice Shop.md",
+            "file": "Mechanics/Novice.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Novice Shop.md",
+                "file": "Mechanics/Novice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,8 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Npcs/Cooking Shop.md",
     "Npcs/Novice Shop.md",
+    "Npcs/Cooking Shop.md",
     "Npcs/Blacksmith Shop.md",
     "Npcs/Alchemist Shop.md",
     "Npcs/Announcement Board.md",

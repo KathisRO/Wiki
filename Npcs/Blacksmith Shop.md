@@ -9,6 +9,8 @@ A speical shop that sells blacksmith stuff for crafting.
 + [[Items/615|(I/615)]]
 + [[Items/1002|(I/1002)]]
 + [[Items/1003|(I/1003)]]
++ [[Items/1001|(I/1001)]]
++ [[Items/986|(I/986)]]
 
 ## Found at
 + [[Locations/Prontera|Prontera]] /navi prontera 170/226

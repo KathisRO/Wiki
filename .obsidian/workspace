@@ -11,7 +11,8 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics/Novice.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         },
         "group": "3943bb7605abf415"
@@ -24,7 +25,8 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics/Novice.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "3943bb7605abf415"
@@ -112,7 +114,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
     "Mechanics/Novice.md",
     "Mechanics/Classes.md",

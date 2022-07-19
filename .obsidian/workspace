@@ -10,9 +10,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Novice.md",
+            "file": "Npcs/Blacksmith Shop.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "3943bb7605abf415"
@@ -24,9 +24,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Novice.md",
+            "file": "Npcs/Blacksmith Shop.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         },
         "group": "3943bb7605abf415"
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Novice.md",
+                "file": "Npcs/Blacksmith Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4cef5ccc7860927",
+  "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Mechanics/Novice.md",
+    "Npcs/Announcement Board.md",
+    "Npcs/Blacksmith Shop.md",
+    "Items/1003.md",
     "Mechanics/Classes.md",
+    "Mechanics/Novice.md",
     "Syntax.md",
     "Images/npc/Novice.gif",
     "Npcs/Alchemist Shop.md",
     "index.md",
-    "Npcs/Signature Rhin.md",
-    "Npcs/Announcement Board.md",
-    "Npcs/Blacksmith Shop.md",
-    "Npcs/Rental NPC.md"
+    "Npcs/Signature Rhin.md"
   ]
 }

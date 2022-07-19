@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Blacksmith Shop.md",
+            "file": "Npcs/Cooking Shop.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Blacksmith Shop.md",
+            "file": "Npcs/Cooking Shop.md",
             "mode": "preview",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Blacksmith Shop.md",
+                "file": "Npcs/Cooking Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "07662f9663fc195c",
   "lastOpenFiles": [
-    "Npcs/Alchemist Shop.md",
     "Npcs/Blacksmith Shop.md",
+    "Npcs/Cooking Shop.md",
+    "Npcs/Alchemist Shop.md",
     "Npcs/Announcement Board.md",
     "Items/1003.md",
     "Mechanics/Classes.md",
     "Mechanics/Novice.md",
     "Syntax.md",
     "Images/npc/Novice.gif",
-    "index.md",
-    "Npcs/Signature Rhin.md"
+    "index.md"
   ]
 }

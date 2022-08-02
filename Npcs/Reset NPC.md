@@ -3,13 +3,13 @@
 This is a Service npc that resets the players Skills, and Stats for 1000z. 
 It should be noted that some skills cannot be reseted if the player had done the quest to earn it.
 The player cannot be equipped with any of the following items
-+ [[Items/(8191)|(I/8191)]]
-+ [[Items/(9049)|(I/9049)]]
-+ [[Items/(9050)|(I/9050)]]
-+ [[Items/(9051)|(I/9051)]]
-+ [[Items/(20240)|(I/20240)]]
-+ [[Items/(21062)|(I/21062)]]
-+ [[Items/(2844)|(I/2844)]]
++ [[8191|(I/8191)]]
++ [[9049|(I/9049)]]
++ [[9050|(I/9050)]]
++ [[9051|(I/9051)]]
++ [[20240|(I/20240)]]
++ [[21062|(I/21062)]]
++ [[2844|(I/2844)]]
 
 After completing the service, the player will be have all their gear unequiped, and will need to relog for the skill reset to take effect. 
 

@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "autoPairBrackets": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "livePreview": false
 }

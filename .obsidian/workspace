@@ -4,32 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "07662f9663fc195c",
+        "id": "c4cef5ccc7860927",
         "type": "leaf",
-        "dimension": 62.62214983713355,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Novice.md",
+            "file": "Items/0.0 Item standarized.md",
             "mode": "source",
             "source": true
           }
-        },
-        "group": "3943bb7605abf415"
+        }
       },
       {
-        "id": "c4cef5ccc7860927",
+        "id": "67d710d483ad81d2",
         "type": "leaf",
-        "dimension": 37.37785016286645,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/Novice.md",
+            "file": "Items/0.0 Item standarized.md",
             "mode": "preview",
             "source": true
           }
-        },
-        "group": "3943bb7605abf415"
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Novice.md",
+                "file": "Items/0.0 Item standarized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07662f9663fc195c",
+  "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
-    "Npcs/Novice Shop.md",
-    "Npcs/Cooking Shop.md",
-    "Npcs/Blacksmith Shop.md",
-    "Npcs/Alchemist Shop.md",
+    "Items/501.md",
+    "Items/0.0 Item standarized.md",
+    "Glossery.md",
+    "index.md",
+    "Items/569.md",
+    "Endless Tower.md",
+    "Customs.md",
+    "Monsters/Pungus Family.md",
     "Npcs/Announcement Board.md",
-    "Items/1003.md",
-    "Mechanics/Classes.md",
-    "Mechanics/Novice.md",
-    "Syntax.md",
-    "Images/npc/Novice.gif"
+    "Items/20240.md"
   ]
 }

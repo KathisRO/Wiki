@@ -6,10 +6,11 @@
       {
         "id": "c4cef5ccc7860927",
         "type": "leaf",
+        "dimension": 59.231490159325205,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/0.0 Item standarized.md",
+            "file": "Items/501 - Red Potion.md",
             "mode": "source",
             "source": true
           }
@@ -18,10 +19,11 @@
       {
         "id": "67d710d483ad81d2",
         "type": "leaf",
+        "dimension": 40.76850984067479,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/0.0 Item standarized.md",
+            "file": "Items/501 - Red Potion.md",
             "mode": "preview",
             "source": true
           }
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/0.0 Item standarized.md",
+                "file": "Items/501 - Red Potion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +114,15 @@
   },
   "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
-    "Items/501.md",
+    "Items/713.md",
+    "Npcs/Alchemist Shop.md",
+    "Items/501 - Red Potion.md",
     "Items/0.0 Item standarized.md",
     "Glossery.md",
     "index.md",
     "Items/569.md",
     "Endless Tower.md",
     "Customs.md",
-    "Monsters/Pungus Family.md",
-    "Npcs/Announcement Board.md",
-    "Items/20240.md"
+    "Monsters/Pungus Family.md"
   ]
 }

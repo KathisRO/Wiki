@@ -107,15 +107,23 @@ A shop that sells Pet Food
 A shop that sells Pet Accessories
 
 ### Sells
++ [[Items/10001|(I/10001)]]
 + [[Items/10002|(I/10002)]]
++ [[Items/10003|(I/10003)]]
++ [[Items/10004|(I/10004)]]
++ [[Items/10005|(I/10005)]]
++ [[Items/10007|(I/10007)]]
 + [[Items/10008|(I/10008)]]
 + [[Items/10009|(I/10009)]]
 + [[Items/10010|(I/10010)]]
++ [[Items/10011|(I/10011)]]
 + [[Items/10012|(I/10012)]]
 + [[Items/10013|(I/10013)]]
 + [[Items/10014|(I/10014)]]
++ [[Items/10015|(I/10015)]]
 + [[Items/10017|(I/10017)]]
 + [[Items/10019|(I/10019)]]
++ [[Items/10020|(I/10020)]]
 
 ### Found At:
 + [[Locations/Prontera|Prontera]] /navi prontera 219/209

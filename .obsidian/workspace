@@ -4,27 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c4cef5ccc7860927",
+        "id": "38f2f7dc1ed73fdb",
         "type": "leaf",
-        "dimension": 59.231490159325205,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Npcs/Pet Shop.md",
             "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "67d710d483ad81d2",
-        "type": "leaf",
-        "dimension": 40.76850984067479,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Npcs/Pet Shop.md",
-            "mode": "preview",
             "source": true
           }
         }
@@ -112,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4cef5ccc7860927",
+  "active": "38f2f7dc1ed73fdb",
   "lastOpenFiles": [
-    "Npcs/Novice Shop.md",
+    "Images/npc/4_M_KID2.gif",
     "Npcs/Pet Shop.md",
+    "Items/21075.md",
+    "Items/21078.md",
+    "Images/npc/4_M_TELEPORTER.gif",
+    "Npcs/Novice Shop.md",
     "Npcs/Cooking Shop.md",
     "Items/501 - Red Potion.md",
     "Images/npc/4_M_KID1.gif",
-    "Images/npc/4_F_KHALITZBURG.gif",
-    "Items/713.md",
-    "Npcs/Alchemist Shop.md",
-    "Items/0.0 Item standarized.md",
-    "Glossery.md"
+    "Images/npc/4_F_KHALITZBURG.gif"
   ]
 }

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/501 - Red Potion.md",
+            "file": "Npcs/Pet Shop.md",
             "mode": "source",
             "source": true
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/501 - Red Potion.md",
+            "file": "Npcs/Pet Shop.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/501 - Red Potion.md",
+                "file": "Npcs/Pet Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "c4cef5ccc7860927",
   "lastOpenFiles": [
+    "Npcs/Novice Shop.md",
+    "Npcs/Pet Shop.md",
+    "Npcs/Cooking Shop.md",
+    "Items/501 - Red Potion.md",
+    "Images/npc/4_M_KID1.gif",
+    "Images/npc/4_F_KHALITZBURG.gif",
     "Items/713.md",
     "Npcs/Alchemist Shop.md",
-    "Items/501 - Red Potion.md",
     "Items/0.0 Item standarized.md",
-    "Glossery.md",
-    "index.md",
-    "Items/569.md",
-    "Endless Tower.md",
-    "Customs.md",
-    "Monsters/Pungus Family.md"
+    "Glossery.md"
   ]
 }

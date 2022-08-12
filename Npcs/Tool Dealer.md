@@ -4,10 +4,7 @@
 A speical shop that sells various goods to help the character in their every day adventuring ways.
 
 ## Sells
-+ [[Items/501|(I/501)]]
 + [[Items/502|(I/502)]]
-+ [[Items/503|(I/503)]]
-+ [[Items/504|(I/504)]]
 + [[Items/506|(I/506)]]
 + [[Items/514|(I/514)]]
 + [[Items/601|(I/601)]]
@@ -22,9 +19,8 @@ A speical shop that sells various goods to help the character in their every day
 + [[Items/717|(I/717)]]
 + [[Items/1025|(I/1025)]]
 + [[Items/1065|(I/1065)]]
-+ [[Items/1773|(I/1773)]]
 + [[Items/1750|(I/1750)]]
-+ [[Items/2239|(I/2239)]]
+
 
 
 

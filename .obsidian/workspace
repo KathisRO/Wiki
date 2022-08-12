@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Pet Shop.md",
+            "file": "Npcs/Tool Dealer.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Pet Shop.md",
+                "file": "Npcs/Tool Dealer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "38f2f7dc1ed73fdb",
   "lastOpenFiles": [
-    "Images/npc/4_M_KID2.gif",
+    "Changes need to be done..md",
+    "Npcs/Tool Dealer.md",
+    "Locations/Comodo.md",
+    "Npcs/Alchemist Shop.md",
+    "Images/npc/4_F_01.gif",
     "Npcs/Pet Shop.md",
+    "Images/npc/4_M_KID2.gif",
     "Items/21075.md",
     "Items/21078.md",
-    "Images/npc/4_M_TELEPORTER.gif",
-    "Npcs/Novice Shop.md",
-    "Npcs/Cooking Shop.md",
-    "Items/501 - Red Potion.md",
-    "Images/npc/4_M_KID1.gif",
-    "Images/npc/4_F_KHALITZBURG.gif"
+    "Images/npc/4_M_TELEPORTER.gif"
   ]
 }

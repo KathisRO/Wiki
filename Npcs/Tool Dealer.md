@@ -31,7 +31,7 @@ A speical shop that sells various goods to help the character in their every day
 + [[Locations/Aldebaran|Aldebaran]] /navi aldebaran 128/110
 + [[Locations/Lutie|Lutie]] /navi lutie 126/118
 + [[Locations/Comodo|Comodo]] /navi comodo 171/163
-+ [[Locations/Moscavia|Moscavia]] /navi mosk_in 21/254
++ [[Locations/Moscovia|Moscovia]] /navi mosk_in 21/254
 + [[Locations/Amatsu|Amatsu]] /navi amatsu 207/262
 + [[Locations/Jawaii|Jawaii]] /navi jawaii 193/243
 + [[Locations/Yuno|Yuno]] /navi yuno 166/96
@@ -48,7 +48,7 @@ A speical shop that sells various goods to help the character in their every day
 + [[Locations/Brasilis|Brasilia]] /navi brasilis 186/231
 + [[Locations/Battlegrounds|Battlegrounds]] /navi bat_room 138/156
 + [[Locations/Mora|Mora]] /navi mora 100/117
-+ [[Locations/Dicastes|Dicastes]] /navi dicastes01 208/181
++ [[Locations/El Dicastes|El Dicastes]] /navi dicastes01 208/181
 + [[Locations/Malaya|Malaya]] /navi malaya 146/261
 + [[Locations/Manuk|Manuk]] /navi manuk 268/142
 + [[Locations/Malangdo|Malangdo]] /navi malangdo 179/215

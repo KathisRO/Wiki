@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Npcs/Tool Dealer.md",
+            "file": "Locations/Towns.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Npcs/Tool Dealer.md",
+                "file": "Locations/Towns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "38f2f7dc1ed73fdb",
   "lastOpenFiles": [
-    "Npcs/Pet Shop.md",
     "Npcs/Tool Dealer.md",
+    "Npcs/Announcement Board.md",
+    "Npcs/Doctor.md",
+    "Locations/Towns.md",
+    "Npcs/Pet Shop.md",
     "Changes need to be done..md",
     "Locations/Comodo.md",
     "Npcs/Alchemist Shop.md",
     "Images/npc/4_F_01.gif",
-    "Images/npc/4_M_KID2.gif",
-    "Items/21075.md",
-    "Items/21078.md",
-    "Images/npc/4_M_TELEPORTER.gif"
+    "Images/npc/4_M_KID2.gif"
   ]
 }

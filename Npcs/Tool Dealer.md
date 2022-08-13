@@ -21,9 +21,6 @@ A speical shop that sells various goods to help the character in their every day
 + [[Items/1065|(I/1065)]]
 + [[Items/1750|(I/1750)]]
 
-
-
-
 ## Found At:
 + [[Locations/Prontera|Prontera]] /navi prt_in 126/76
 + [[Locations/Payon|Payon]] /navi payon 148/213

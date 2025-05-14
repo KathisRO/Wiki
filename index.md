@@ -107,4 +107,4 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 	
 Hibi was here
 	
-	
+	![[SQI Arena Guide Map Location.jpg]]

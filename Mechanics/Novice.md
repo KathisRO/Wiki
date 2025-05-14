@@ -88,11 +88,11 @@ Job Level stat advancement bonus.
 Stat /Amount|+1
  :---: |-
  STR |8
- Agi |5
- Vit |6
- Int |9
- Dex |3
- Luk |2
+ AGI |5
+ VIT |6
+ INT |9
+ DEX |3
+ LUK |2
  
 ## Skills
 
